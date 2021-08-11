@@ -1,15 +1,5 @@
-fig:nice-fig
-tab:nice-tab
 prerequisites
-intro
-literature
-methods
-math-example
-applications
-example-one
-example-two
-final-words
-question-1
+candidacy-question-1
 topic-of-the-research
 problem-to-be-researched
 purpose-of-the-research
@@ -22,3 +12,10 @@ impact-on-learners
 theoretical-framework-overview
 summary-and-research-questions
 significance-of-the-research
+literature
+methods
+math-example
+applications
+example-one
+example-two
+final-words
