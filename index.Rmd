@@ -3,9 +3,7 @@ title: "Assessment in Online Higher Education"
 author: "Colin Madland"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::bs4_book
-  theme:
-    primary: "#0d6efd"   
+output: bookdown::gitbook  
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apa
