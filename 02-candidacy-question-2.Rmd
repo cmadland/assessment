@@ -18,8 +18,6 @@ Monday, August 9, 2021
 
 *Describe a methodological approach to investigate higher education instructors’ assessment literacies, practices, and the impacts of those on learners. Consider and justify your methodological decisions based on extant literature. Explore how the underpinning epistemology aligns with the purpose of the investigation. Consider the practical methods as based on previous research (where relevant) that could be used to pursue such an investigation, explaining the type of data you would collect, potential tools to collect data, and how you would use the data to address your research question(s).*
 
-[TOC]
-
 
 
 ## Overview of the Problem, Purpose, and Questions
@@ -84,19 +82,19 @@ Researchers have argued that using mixed approaches to research is a way to stre
 | Study Component | Details | Yes/No | Comments |
 |---|---|---|---|
 | Rationale/Purpose for Mixing | Enhancement  |  |   |
-|  Priority | QUAN &rarr; qual | -  | -  |
-|  Timing of Data Collection | Sequential  | -  | -  |
-| Timing of Data Analysis  | Sequential  | -  | -  |
-| Mixing  |  |   | -  |
+|  Priority | QUAN &rarr; qual |   |   |
+|  Timing of Data Collection | Sequential  |   |   |
+| Timing of Data Analysis  | Sequential  |   |   |
+| Mixing  |  |   |   |
 |   | Design  |  Yes | Qualitative data were used to confirm tentative inferences from quantitative analysis.  |
 |   | Data Collection  |  Yes | Semi-structured interview questions were revised in light of quantitative inferences, and participants could view their survey answers during their interviews. |
 |   | Data Analysis  | Yes  | Blended in the report.  |
 |   | Inferences  |  Yes | Blended in the report.  |
 |   | Fully Integrated   |  Yes |   |
 |    Qualitative Inference |    Learners value assessment information but it takes work to use the information formatively.  | - | -  |
-|    Quantitative Inference  | Learners agreed more with the idea that assessment is a tool for improvement and less with the idea that assessment is negative. | - | -  |
-|Meta-inference   | Teacher education and development should systematically include alternative assessment practices.  | -  | -   |
-| Value Added   |  Linking data from both surveys and interviews provided opportunity for learners to elaborate on their views and provide a richer picture of their conceptions of assessment. | -  | -  |
+|    Quantitative Inference  | Learners agreed more with the idea that assessment is a tool for improvement and less with the idea that assessment is negative. |  |   |
+|Meta-inference   | Teacher education and development should systematically include alternative assessment practices.  |   | -  |
+| Value Added   |  Linking data from both surveys and interviews provided opportunity for learners to elaborate on their views and provide a richer picture of their conceptions of assessment. |   |   |
 
 **Table 2**
 
@@ -105,19 +103,19 @@ Researchers have argued that using mixed approaches to research is a way to stre
 | Study Component | Details | Yes/No | Comments |
 |---|---|---|---|
 | Rationale/Purpose for Mixing | Complementarity  |  |   |
-|  Priority | QUAN &rarr; qual | -  | -  |
-|  Timing of Data Collection | Sequential  | -  | -  |
-| Timing of Data Analysis  | Sequential  | -  | -  |
-| Mixing  |  |   | -  |
+|  Priority | QUAN &rarr; qual |   |   |
+|  Timing of Data Collection | Sequential  |  |   |
+| Timing of Data Analysis  | Sequential  |   |   |
+| Mixing  |  |   |   |
 |   | Design  |  Yes |  The qualitative phase was used to elaborate on the quantiative phase. |
 |   | Data Collection  |  No |  |
 |   | Data Analysis  | Yes  | Qualitative analysis filled gaps in quantitative inferences. |
 |   | Inferences  |  Yes | Blended in the report.  |
 |   | Fully Integrated   |  No |   |
-|    Qualitative Inference |    Subgroups of participants assessed learners differently, used assessment for different purposes, had different levels of training in assessment, and different views on the psychometric properties of tests.   | - | -  |
-|    Quantitative Inference  | Results showed support for a three-component model of assessment literacy. | - | -  |
-|Meta-inference   | Assessment literacy is a multi-dimensional concept affected my many factors, including teaching experience, professional development and training, and the local teaching context.  | -  | -   |
-| Value Added   |  Qualitative analysis was critical to helping the researchers understand the differences seen between subgroups in the quantitative analysis. | -  | -  |
+|    Qualitative Inference |    Subgroups of participants assessed learners differently, used assessment for different purposes, had different levels of training in assessment, and different views on the psychometric properties of tests.   |  |   |
+|    Quantitative Inference  | Results showed support for a three-component model of assessment literacy. |  |  |
+|Meta-inference   | Assessment literacy is a multi-dimensional concept affected my many factors, including teaching experience, professional development and training, and the local teaching context.  |   |    |
+| Value Added   |  Qualitative analysis was critical to helping the researchers understand the differences seen between subgroups in the quantitative analysis. |   |   |
 
 **Table 3**
 
@@ -126,19 +124,19 @@ Researchers have argued that using mixed approaches to research is a way to stre
 | Study Component | Details | Yes/No | Comments |
 |---|---|---|---|
 | Rationale/Purpose for Mixing | Triangulation and Enhancement  |  |   |
-|  Priority | QUAN &rarr; qual+qual | -  | -  |
-|  Timing of Data Collection | Sequential  | -  | -  |
-| Timing of Data Analysis  | Side-by-side comparison (concurrent)  | -  | -  |
-| Mixing  |  |   | -  |
+|  Priority | QUAN &rarr; qual+qual |   |   |
+|  Timing of Data Collection | Sequential  |   |   |
+| Timing of Data Analysis  | Side-by-side comparison (concurrent)  |  |   |
+| Mixing  |  |   |   |
 |   | Design  |  Yes |  The qualitative phase was used to validate and elaborate on the quantitative phase. |
 |   | Data Collection  |  No |  |
 |   | Data Analysis  | Yes  | Qualitative and quantitative data were analyzed concurrently by presenting them side-by-side for comparison. |
 |   | Inferences  |  Yes | Blended in the report.  |
 |   | Fully Integrated   |  No |   |
-|    Qualitative Inference |    Qualitative analysis showed alignment with quantitative analysis   | - | -  |
-|    Quantitative Inference  | Pre-service teachers' assessment literacy was determined to be "close to constructivist" (p. 352) | - | -  |
-|Meta-inference   | Although participants were able to demonstrate knowledge of assessment literacy, they had difficulty translating that knowledge into practice.  | -  | -   |
-| Value Added   |  Qualitative analysis was important for determining the difficulty in translating knowledge of assessment literacy into practice of good assessment. | -  | -  |
+|    Qualitative Inference |    Qualitative analysis showed alignment with quantitative analysis   |  |   |
+|    Quantitative Inference  | Pre-service teachers' assessment literacy was determined to be "close to constructivist" (p. 352) |  |   |
+|Meta-inference   | Although participants were able to demonstrate knowledge of assessment literacy, they had difficulty translating that knowledge into practice.  |   |    |
+| Value Added   |  Qualitative analysis was important for determining the difficulty in translating knowledge of assessment literacy into practice of good assessment. |   |   |
 
 **Table 4**
 
@@ -147,19 +145,19 @@ Researchers have argued that using mixed approaches to research is a way to stre
 | Study Component | Details | Yes/No | Comments |
 |---|---|---|---|
 | Rationale/Purpose for Mixing | Triangulation  |  |   |
-|  Priority | QUAN+QUAL | -  | -  |
-|  Timing of Data Collection | Concurrent  | -  | -  |
-| Timing of Data Analysis  | Consecutive  | -  | -  |
-| Mixing  |  |   | -  |
+|  Priority | QUAN+QUAL |   |  |
+|  Timing of Data Collection | Concurrent  |   |   |
+| Timing of Data Analysis  | Consecutive  |   |   |
+| Mixing  |  |   |   |
 |   | Design  |  Yes |  The qualitative phase was used to validate and elaborate on the quantitative phase. |
 |   | Data Collection  |  Yes | Open-ended (qualitative) responses were gathered along with quantitative responses and were designed to elicit clarifying views. |
 |   | Data Analysis  | No  |  |
 |   | Inferences  |  Yes | Blended in the report.  |
 |   | Fully Integrated   |  No |   |
-|    Qualitative Inference |    Qualitative analysis deeper levels of complexity compared to quantitative analysis.   | - | -  |
-|    Quantitative Inference  | First-year university learners indicated positive views of assessment, regardless of their program. | - | -  |
-|Meta-inference   | Universities should recognize that first-year learners tend to have positive views of assessment and should communicate often with them about the purposes of assessment. | -  | -   |
-| Value Added   |  Qualitative analysis showed areas of misalignment with the quantitative analysis. | -  | -  |
+|    Qualitative Inference |    Qualitative analysis deeper levels of complexity compared to quantitative analysis.   |  |   |
+|    Quantitative Inference  | First-year university learners indicated positive views of assessment, regardless of their program. |  |   |
+|Meta-inference   | Universities should recognize that first-year learners tend to have positive views of assessment and should communicate often with them about the purposes of assessment. |   |   |
+| Value Added   |  Qualitative analysis showed areas of misalignment with the quantitative analysis. |   |   |
 
 Each of the preceding four studies shows different ways in which mixed research can enhance validity or provide avenues for deeper and more complex understanding of instructors' assessment literacy and practices and the impact of those on learners. The tables illustrate the complexity of mixed studies and highlight the challenges associated with integrating quantitative and qualitative approaches at each stage of the research. However, even those studies which do not demonstrate all of the qualities of fully integrated  mixed research contain valuable insights based on the integration of the two analyses.
 
@@ -176,7 +174,7 @@ The purpose of this project is to investigate a multi-dimensional construct, ass
 
 *A Visualization of a QUAN+qual &rarr; QUAL Sequential Exploratory Mixed Research Study.*
 
-![](../assets/images/methods-viz.png)
+![](images/methods-viz.png)
 
 
 
@@ -264,7 +262,7 @@ Following approval from the University of Victoria Human Research Ethics Board (
 ***Projected Timeline***
 
 | Projected Date   | Project Stage |
-|:--|---|
+|:---|---|
 | December 2021   | UVic HREB Approval  |
 | January 2022  | Pilot Phase  |
 | February 2022   | Phase 1 Data Collection  |
