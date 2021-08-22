@@ -157,7 +157,7 @@ The themes DeLuca et al [-@delucaExploringAssessmentCultures2021, p. 10] describ
   - Balanced  
     - Works to ensure consistency in measuring what an assessment or evaluation intends to measure, and degree to which an assessment or evaluation measures what it claims to measure.  
 
-![alt-text](../assets/images/approaches-to-assessment.png "Approaches to Classroom Assessment")
+![alt-text](../images/approaches-to-assessment.png "Approaches to Classroom Assessment")
 Figure 2. Approaches to Classroom Assessment.  [@delucaExploringAssessmentCultures2021, p. 10]
 
 
