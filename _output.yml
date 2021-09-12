@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Assessment in Online Higher Education</a></li>
+        <li><a href="./">Assessment in Higher Education</a></li>
       after: |
         <li><a href="https://github.com/cmadland/assessment" target="blank">Published with bookdown</a></li>
     edit: https://github.com/cmadland/assessment/edit/master/%s
