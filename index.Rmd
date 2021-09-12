@@ -12,7 +12,7 @@ github-repo: cmadland/assessment
 description: "This site hosts the open development of my PhD dissertation at University of Victoria."
 ---
 
-# Welcome
+# Welcome{-}
 
 This site hosts the open development of my PhD dissertation at University of Victoria.
 
