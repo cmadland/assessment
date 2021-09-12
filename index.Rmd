@@ -1,5 +1,5 @@
 ---
-title: "Assessment in Online Higher Education"
+title: "Assessment in Higher Education"
 author: "Colin Madland"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
