@@ -1,0 +1,65 @@
+# Approaches to Classroom Assessment Inventory v3.0
+
+The ACAI is part of an educational research project. By completing the ACAI you will be consenting to your anonymous responses being including in our research study. Additional details on research ethics are presented in this letter of information and consent page.
+
+**Project title:** Teachers’ Approaches to Classroom Assessment
+
+**Ethical clearance:** This study has been granted clearance according to the recommended principles of Canadian ethics guidelines and Queen’s policies.
+
+**Purpose:** The purpose of this research is to develop and test a survey to examine teachers’ approaches to classroom assessment. Results from this survey will serve to describe teachers’ assessment practices within various educational systems. Findings from this study will provide a basis for future teacher professional development activities in assessment.
+
+**Participation:** If you agree to participate, you will be asked to complete the online survey. In total, completion of the survey should take approximately 20 minutes. The survey includes questions about your approach to assessment practice, your perceived skill in assessment, and professional learning interests in assessment. At the end of the survey you will be asked if you are interested in participating in future research on assessment. This question is optional, and you may choose not to answer it. However, if you are interested, you will be asked for your name and contact information.
+
+**Withdrawal Procedures:** There are no known risks to participating in this study. Participation is voluntary and you are free to withdraw at any time by simply closing your browser window. However, once you have submitted your responses, you will be unable to withdraw your data from the study. If you have elected to provide your contact information at the end of the survey, you may request removal of your data. In order to withdraw, please contact the principal researcher, Christopher DeLuca, via email (cdeluca@queensu.ca) or phone (613-533-6000 x.77675).
+
+**Privacy:** Your confidentiality will be maintained to the extent possible. Presentation or publication of research results will not identify you in any way. Your name will not be used in the publication or presentation of results. All of the data will be stored on password-protected computers at Queen’s University and, in accordance with Queen’s policies, will be retained for at least five years before being destroyed. Contact information, should you choose to provide it, will be stored separately from your survey responses. Only the researcher and research assistants will have access to the data. The survey data obtained in this research will be encrypted using SSL and stored on secure servers located in Canada and your IP address will not be known or identifiable.
+
+**Consent & Agreeing to Participate:** If you are interested in participating in this study, please click on the NEXT button below to complete the survey. By completing the survey you freely agree to participate in this study.
+Questions: Any questions about study participation may be directed to Dr. Christopher DeLuca (613 533 6000 x77675 or by email at cdeluca@queensu.ca). Any ethical concerns about the study may be directed to the Chair of the General Research Ethics Board at 613-533-6081 or chair.GREB@queensu.ca.
+
+Do you consent?
+  Yes No
+
+## PART A: QUESTIONS ABOUT YOU AND YOUR TEACHING BACKGROUND
+
+Please enter the last 5 digits of your phone number. This information will be used to link your responses if you take this survey multiple times and not for identification purposes.
+With which gender do you self-identify?
+Female
+Male
+Other
+Prefer not to respond
+
+My age is: (open response)
+
+I currently live in: (scroll down menu for all countries, Canada with provinces, America with states)
+
+In a few sentences or point form notes, please describe experiences or people who have influenced your understanding and practice of classroom assessment. (open response)
+
+I am currently complete a teacher education program.
+Yes (stream 1) No (stream 2)
+
+Stream 1
+At what institution are you completing your teacher education program? (open response)
+
+At what stage are you in your teacher education program?
+
+At the beginning Around the middle Near the end
+
+I will be certified/licensed as a (select all that apply):
+- Primary teacher
+- Early elementary teacher
+- Upper elementary teacher
+- Middle grades/intermediate/junior school teacher
+- Senior grades/ high school teacher
+- K-12 teacher
+
+Thinking of your teacher education program, how important were these experiences in shaping your thinking or practice of assessment?
+
+|   | Not at all Important | Unimportant | Important | Very Important | Not Applicable |
+|---|---|---|---|---|---|
+|Practicum |---|---|---|---|---|
+|Assessment Course(s)|---|---|---|---|---|
+|Curriculum Course(s)|---|---|---|---|---|
+|Self-study and/or Personal Learning|---|---|---|---|---|
+|Conversations with Peers|---|---|---|---|---|
+|Conversations with Teacher Educators/Instructors Outside of Courses|---|---|---|---|---|
