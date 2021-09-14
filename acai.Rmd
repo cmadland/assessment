@@ -38,7 +38,7 @@ In a few sentences or point form notes, please describe experiences or people wh
 I am currently complete a teacher education program.
 Yes (stream 1) No (stream 2)
 
-Stream 1
+## Stream 1
 At what institution are you completing your teacher education program? (open response)
 
 At what stage are you in your teacher education program?
@@ -57,9 +57,80 @@ Thinking of your teacher education program, how important were these experiences
 
 |   | Not at all Important | Unimportant | Important | Very Important | Not Applicable |
 |---|---|---|---|---|---|
-|Practicum |---|---|---|---|---|
-|Assessment Course(s)|---|---|---|---|---|
-|Curriculum Course(s)|---|---|---|---|---|
-|Self-study and/or Personal Learning|---|---|---|---|---|
-|Conversations with Peers|---|---|---|---|---|
-|Conversations with Teacher Educators/Instructors Outside of Courses|---|---|---|---|---|
+|Practicum |   |   |   |   |   |
+|Assessment Course(s)|   |   |   |   |   |
+|Curriculum Course(s)|   |   |   |   |   |
+|Self-study and/or Personal Learning|   |   |   |   |   |
+|Conversations with Peers|   |   |   |   |   |
+|Conversations with Teacher Educators/Instructors Outside of Courses|   |   |   |   |   |
+
+## Stream 2
+I currently work as a
+- Full-time teacher
+- Part-time teacher
+- Substitute teacher
+- School administrator
+- District administrator
+- Instructional coach or similar position
+- Teacher’s aide or paraprofessional
+- Not applicable/not working
+- Other-please specify
+
+How long have you been a professional educator? (open response)
+
+I currently work in a(n):
+- Preschool Elementary school
+- Middle school
+- Junior high school
+- High school
+- Other-please specify
+
+During my pre-service teacher education program, I completed the following preparation in assessment:
+- Two or more full-semester courses in assessment
+- A one-semester equivalent course in assessment
+- A short or mini course in assessment of less than one semester equivalency
+- A module in assessment (e.g., one face-to-face workshop, one online session)
+- One or more teaching methods courses with assessment topics integrated
+- No formal preparation in assessment
+- I don't remember
+
+How important are the following sources in developing your knowledge or practice of classroom assessment?
+
+|   | Not at all Important | Unimportant | Important | Very Important | Not Applicable |
+|---|---|---|---|---|---|
+|Professional Learning Communities |   |   |   |   |   |
+|Workshops|   |   |   |   |   |
+|Classroom Experiences|   |   |   |   |   |
+|Self-study and/or Personal Learning|   |   |   |   |   |
+|Conversations with Peers|   |   |   |   |   |
+|Conversations with Administration|   |   |   |   |   |
+
+## PART B: SCENARIO-BASED QUESTIONS
+You will be presented with four scenarios in this section. Each scenario has 12 actions. For each action, please identify how likely you are to do each of the following as part of your overall response to the scenario (1=highly unlikely; 2=unlikely; 3=somewhat unlikely; 4=somewhat likely; 5=likely; 6=highly likely).
+
+Please interpret the scenario in relation to your current teaching context (i.e., grade, school, community); if you teach across contexts, select one context and keep this context in mind when completing the entire survey. There are no right or wrong answers. We are interested in your honest responses to the scenarios. If you do not understand the statement, select 'Don't Know.'
+
+### Scenario 1:
+>You give your class a paper-pencil summative unit test with accommodations and modifications for identified learners. Sixteen of the 24 students fail.
+
+As a teacher in this situation, how likely are you to do each of the following actions as part of your overall response to the scenario? If you have experienced this scenario in your teaching context, base your response on the actions you took.
+
+1. Keep and record the test grade for all students and move on to the next unit.
+2. Disregard the test grade, then reteach and retest the material.
+3. Have students generate a plan to relearn the material.
+4. Analyze test results to determine if failure was the result of poor test design.
+5. Remove test questions that most students struggled with and re-calculate student scores without those questions.
+6. Schedule student conferences to discuss test performance and next steps.
+7. Allow the entire class to retake a similar test.
+8. Allow only students with exceptionalities who struggled with the test to take a new assessment.
+9. Provide a new assessment to every student who struggled with the test.
+10. Identify test questions that most students consistently answered incorrectly, then provide students with new questions to re-test those concepts.
+11. Adjust student grades based on previously collected formative assessment information.
+12. Analyze test results to identify test design errors and consider student circumstances for failure, then adjust individual student grades accordingly.
+
+If your response to this scenario was not listed above, how would you most likely respond? (open response)
+
+### Scenario 2:
+>You discover that a student has plagiarized some of their assignment (e.g., an essay, lab report).
+
+As a teacher in this situation, how likely are you to do each of the following actions? If you have experienced this scenario in your teaching context, base your response on the actions you took.
