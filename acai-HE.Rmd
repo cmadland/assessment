@@ -1,0 +1,230 @@
+# Approaches to Classroom Assessment Inventory v3.0
+
+The ACAI is part of an educational research project. By completing the ACAI you will be consenting to your anonymous responses being including in our research study. Additional details on research ethics are presented in this letter of information and consent page.
+
+**Project title:** Teachers’ Approaches to Classroom Assessment
+
+**Ethical clearance:** This study has been granted clearance according to the recommended principles of Canadian ethics guidelines and Queen’s policies.
+
+**Purpose:** The purpose of this research is to develop and test a survey to examine teachers’ approaches to classroom assessment. Results from this survey will serve to describe teachers’ assessment practices within various educational systems. Findings from this study will provide a basis for future teacher professional development activities in assessment.
+
+**Participation:** If you agree to participate, you will be asked to complete the online survey. In total, completion of the survey should take approximately 20 minutes. The survey includes questions about your approach to assessment practice, your perceived skill in assessment, and professional learning interests in assessment. At the end of the survey you will be asked if you are interested in participating in future research on assessment. This question is optional, and you may choose not to answer it. However, if you are interested, you will be asked for your name and contact information.
+
+**Withdrawal Procedures:** There are no known risks to participating in this study. Participation is voluntary and you are free to withdraw at any time by simply closing your browser window. However, once you have submitted your responses, you will be unable to withdraw your data from the study. If you have elected to provide your contact information at the end of the survey, you may request removal of your data. In order to withdraw, please contact the principal researcher, Christopher DeLuca, via email (cdeluca@queensu.ca) or phone (613-533-6000 x.77675).
+
+**Privacy:** Your confidentiality will be maintained to the extent possible. Presentation or publication of research results will not identify you in any way. Your name will not be used in the publication or presentation of results. All of the data will be stored on password-protected computers at Queen’s University and, in accordance with Queen’s policies, will be retained for at least five years before being destroyed. Contact information, should you choose to provide it, will be stored separately from your survey responses. Only the researcher and research assistants will have access to the data. The survey data obtained in this research will be encrypted using SSL and stored on secure servers located in Canada and your IP address will not be known or identifiable.
+
+**Consent & Agreeing to Participate:** If you are interested in participating in this study, please click on the NEXT button below to complete the survey. By completing the survey you freely agree to participate in this study.
+Questions: Any questions about study participation may be directed to Dr. Christopher DeLuca (613 533 6000 x77675 or by email at cdeluca@queensu.ca). Any ethical concerns about the study may be directed to the Chair of the General Research Ethics Board at 613-533-6081 or chair.GREB@queensu.ca.
+
+Do you consent?
+  Yes No
+
+## PART A: QUESTIONS ABOUT YOU AND YOUR TEACHING BACKGROUND
+
+Please enter the last 5 digits of your phone number. This information will be used to link your responses if you take this survey multiple times and not for identification purposes.
+With which gender do you self-identify?
+Female
+Male
+Other
+Prefer not to respond
+
+My age is: (open response)
+
+I currently live in: (scroll down menu for all countries, Canada with provinces, America with states)
+
+In a few sentences or point form notes, please describe experiences or people who have influenced your understanding and practice of classroom assessment. (open response)
+
+I am currently complete a teacher education program.
+Yes (stream 1) No (stream 2)
+
+## Stream 1
+At what institution are you completing your teacher education program? (open response)
+
+At what stage are you in your teacher education program?
+
+At the beginning Around the middle Near the end
+
+I will be certified/licensed as a (select all that apply):
+- Primary teacher
+- Early elementary teacher
+- Upper elementary teacher
+- Middle grades/intermediate/junior school teacher
+- Senior grades/ high school teacher
+- K-12 teacher
+
+Thinking of your teacher education program, how important were these experiences in shaping your thinking or practice of assessment?
+
+|   | Not at all Important | Unimportant | Important | Very Important | Not Applicable |
+|---|---|---|---|---|---|
+|Practicum |   |   |   |   |   |
+|Assessment Course(s)|   |   |   |   |   |
+|Curriculum Course(s)|   |   |   |   |   |
+|Self-study and/or Personal Learning|   |   |   |   |   |
+|Conversations with Peers|   |   |   |   |   |
+|Conversations with Teacher Educators/Instructors Outside of Courses|   |   |   |   |   |
+
+## Stream 2
+I currently work as a
+- Full-time teacher
+- Part-time teacher
+- Substitute teacher
+- School administrator
+- District administrator
+- Instructional coach or similar position
+- Teacher’s aide or paraprofessional
+- Not applicable/not working
+- Other-please specify
+
+How long have you been a professional educator? (open response)
+
+I currently work in a(n):
+- Preschool Elementary school
+- Middle school
+- Junior high school
+- High school
+- Other-please specify
+
+During my pre-service teacher education program, I completed the following preparation in assessment:
+- Two or more full-semester courses in assessment
+- A one-semester equivalent course in assessment
+- A short or mini course in assessment of less than one semester equivalency
+- A module in assessment (e.g., one face-to-face workshop, one online session)
+- One or more teaching methods courses with assessment topics integrated
+- No formal preparation in assessment
+- I don't remember
+
+How important are the following sources in developing your knowledge or practice of classroom assessment?
+
+|   | Not at all Important | Unimportant | Important | Very Important | Not Applicable |
+|---|---|---|---|---|---|
+|Professional Learning Communities |   |   |   |   |   |
+|Workshops|   |   |   |   |   |
+|Classroom Experiences|   |   |   |   |   |
+|Self-study and/or Personal Learning|   |   |   |   |   |
+|Conversations with Peers|   |   |   |   |   |
+|Conversations with Administration|   |   |   |   |   |
+
+## PART B: SCENARIO-BASED QUESTIONS
+You will be presented with four scenarios in this section. Each scenario has 12 actions. For each action, please identify how likely you are to do each of the following as part of your overall response to the scenario (1=highly unlikely; 2=unlikely; 3=somewhat unlikely; 4=somewhat likely; 5=likely; 6=highly likely).
+
+Please interpret the scenario in relation to your current teaching context (i.e., grade, school, community); if you teach across contexts, select one context and keep this context in mind when completing the entire survey. There are no right or wrong answers. We are interested in your honest responses to the scenarios. If you do not understand the statement, select 'Don't Know.'
+
+### Scenario 1:
+>You give your class a paper-pencil summative unit test with accommodations and modifications for identified learners. Sixteen of the 24 students fail.
+
+As a teacher in this situation, how likely are you to do each of the following actions as part of your overall response to the scenario? If you have experienced this scenario in your teaching context, base your response on the actions you took.
+
+1. Keep and record the test grade for all students and move on to the next unit.
+2. Disregard the test grade, then reteach and retest the material.
+3. Have students generate a plan to relearn the material.
+4. Analyze test results to determine if failure was the result of poor test design.
+5. Remove test questions that most students struggled with and re-calculate student scores without those questions.
+6. Schedule student conferences to discuss test performance and next steps.
+7. Allow the entire class to retake a similar test.
+8. Allow only students with exceptionalities who struggled with the test to take a new assessment.
+9. Provide a new assessment to every student who struggled with the test.
+10. Identify test questions that most students consistently answered incorrectly, then provide students with new questions to re-test those concepts.
+11. Adjust student grades based on previously collected formative assessment information.
+12. Analyze test results to identify test design errors and consider student circumstances for failure, then adjust individual student grades accordingly.
+
+If your response to this scenario was not listed above, how would you most likely respond? (open response)
+
+### Scenario 2:
+>You discover that a student has plagiarized some of their assignment (e.g., an essay, lab report).
+
+As a teacher in this situation, how likely are you to do each of the following actions? If you have experienced this scenario in your teaching context, base your response on the actions you took.
+
+1. Reduce the student's grade.
+2. Have them re-write the plagiarized section in their own words, then re- grade the assignment.
+3. Ask them to reflect on why plagiarism is a problem and what they would do differently next time.
+4. As the teacher, reflect on how the assignment could have been structured differently to deter plagiarism.
+5. Adjust the student grade to reflect the portion of work that was plagiarized.
+6. Discuss with the student the reasons for the plagiarism, severity of plagiarism, and negotiate potential next steps for their learning.
+7. Apply the same consequence you would for other students to ensure all students are treated equally.
+8. Consider if the student has identified learning needs and exceptionalities before determining response to plagiarism.
+9. Discuss why the student plagiarized and agree upon an appropriate alternative assignment.
+10. Apply all aspects of school policy on plagiarism to ensure consistency across all students.
+11. Consider the original aspects of the assignment and the plagiarized text to determine what the student knows and does not appear to know related to content expectations.
+12. Apply the school policy on plagiarism unless there are extenuating circumstances that led to the plagiarism.
+
+**If your response to this scenario was not listed above, how would you most likely respond?** (open response)
+
+### Scenario 3
+
+> Out of 28 students in your class, 4 students are classified/identified with an exceptionality and have an Individual Education Plan (IEP) (i.e., each student requires accommodations but not a modified curriculum) as well as several other unidentified students with differentiated learning needs. You must decide how to accurately assess learning in your class.
+
+**As a teacher in this situation, how likely are you to do each of the following actions? If you have experienced this scenario in your teaching context, base your response on the actions you took.**
+
+1. Provide all identified students with accommodations on all summative assessments.
+2. Use formative assessments with all of your students based on their individual learning needs to support their learning.
+3. Allow each student to develop a learning plan based on their strengths and goals to support their own learning.
+4. Design a variety of assessment methods to target each learning objective.
+5. Develop and use different rubric criteria to assess identified students.
+6. Explain to students and parents the purpose of accommodations and how they will be implemented to support student learning and assessment.
+7. Grade students using the same assessments and without accommodations.
+8. Assume that accommodated assessments provide an equally valid measure of identified students’ learning.
+9. Provide a variety of assessment options and allow students to choose how they will demonstrate their learning.
+10. Use the same scoring rubric for all students.
+11.  Consider individual student learning needs when assessing student work.
+12. Use the same scoring rubric for all students but use professional judgment to apply criteria differently based on individual student capability.
+
+**If your response to this scenario was not listed above, how would you most likely respond?** (open response)
+
+### 
+
+### Scenario 4: 
+
+You are planning a unit for your class.
+
+**Question 1: As a teacher in this situation, how likely are you to do each of the following actions? If you have experienced this scenario in your teaching context, base your response on the actions you took.**
+
+1. Start by designing a summative assessment based on curriculum expectations then plan your lessons.
+2. Use formative assessments to guide your subsequent lesson planning. 
+3. Co-construct learning goals with students then have each student develop a personal learning plan for the unit.
+4. Design a summative unit assessment based on what was taught to students.
+5. When planning a unit, consider when assessments and feedback will be provided to students.
+6. Discuss assignments and co-construct grading criteria for the unit with your students.
+7. Plan class lessons and assessments that are the same for all students and encompass the curriculum expectations.
+8. Ensure that assessments throughout unit are accommodated for formally identified learners (i.e., learners with exceptionalities).
+9. Give all students a diagnostic assessment at the beginning of the unit and have students use their results to select personalized appropriate learning and assessment activities.
+10. Work with other teachers to develop a reliable summative assessment for the unit.
+11. In designing your assessments, prioritize the alignment between the assessment and the intended learning objectives.
+12. Adapt assessments that have worked well with other students like yours to take into consideration the context and activities of your enacted lessons.
+
+**If your response to this scenario was not listed above, how would you most likely respond?** (open response)
+
+## PART C: QUESTIONS ABOUT CLASSROOM ASSESSMENT PRACTICES AND PROFESSIONAL LEARNING 
+
+Below are a number of statements about assessment. Please indicate your level of agreement with each statement (1=strongly disagree; 2=disagree; 3=somewhat disagree; 4=somewhat agree; 5=agree; 6=strongly agree). There are no right or wrong answers. We are interested in your honest opinions about assessment. If you do not understand the statement, select 'Don't Know.'
+
+1. The primary purpose of classroom assessment is to assign a grade or level to student work.
+2. Classroom assessment should be used to determine if students have met provincial standards.
+3. Feedback from classroom assessments improves student learning.
+4. By using assessment, teachers can track the progress of students.
+5. Students whould use assessment to evaluate their own work.
+6. Students are able to provide accurate and useful feedback to each other.
+7. Teachers have the skills and knowledge to construct good assessments.
+8. For good classroom assessment, teachers need extensive knowledge of the curriculum.
+9. Classroom assessment involves judging a student's performance in relation to a set of goals/standards/criteria.
+10. Classroom assessment is integral to developing lesson plans and implementing curriculum.
+11. Classroom assessment should be used to provide evidence of student progress for administrative purposes.
+12. Classroom assessment is useful when reporting a student's achievement/progress to parents and caregivers.
+13. An important component of classroom assessment is students taking large-scale tests (e.g. provincial assessment, EQAO).
+14. Provincial assessments (e.g. EQAO) are a meaningful form of assessment.
+15. All classroom assessments should be adapted to suit the learning needs of identified students (e.g. English language learners).
+16. Students with exceptionalities should be provided with different classroom assessment than other students.
+17. For good assessment, teachers need to know how their students learn.
+18. Classroom assessment helps teachers identify the particular learning needs of any student.
+19. Classroom assessment results is a good indicator of the quality of a school.
+20. Assessment results reflect the quality of teaching.
+21. Assessment is an imprecise process.
+22. Observing students is a valid form of assessment.
+23. Classroom assessment is of little use to teachers on a day-to-day basis.
+24. Classroom assessment interrupts students' learning.
+25. Assessment is a stressful activity for students.
+26. Assessment takes time away from teaching.
+27. Teachers use too many assessments.
+28. Assessment is a positive force for improving the social climate in a class.
+29. Classroom assessments motivate students to do their best.
+30. Assessment is an engaging and enjoyable experience for students.
