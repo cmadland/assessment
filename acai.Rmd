@@ -194,3 +194,37 @@ You are planning a unit for your class.
 
 **If your response to this scenario was not listed above, how would you most likely respond?** (open response)
 
+## PART C: QUESTIONS ABOUT CLASSROOM ASSESSMENT PRACTICES AND PROFESSIONAL LEARNING 
+
+Below are a number of statements about assessment. Please indicate your level of agreement with each statement (1=strongly disagree; 2=disagree; 3=somewhat disagree; 4=somewhat agree; 5=agree; 6=strongly agree). There are no right or wrong answers. We are interested in your honest opinions about assessment. If you do not understand the statement, select 'Don't Know.'
+
+1. The primary purpose of classroom assessment is to assign a grade or level to student work.
+2. Classroom assessment should be used to determine if students have met provincial standards.
+3. Feedback from classroom assessments improves student learning.
+4. By using assessment, teachers can track the progress of students.
+5. Students whould use assessment to evaluate their own work.
+6. Students are able to provide accurate and useful feedback to each other.
+7. Teachers have the skills and knowledge to construct good assessments.
+8. For good classroom assessment, teachers need extensive knowledge of the curriculum.
+9. Classroom assessment involves judging a student's performance in relation to a set of goals/standards/criteria.
+10. Classroom assessment is integral to developing lesson plans and implementing curriculum.
+11. Classroom assessment should be used to provide evidence of student progress for administrative purposes.
+12. Classroom assessment is useful when reporting a student's achievement/progress to parents and caregivers.
+13. An important component of classroom assessment is students taking large-scale tests (e.g. provincial assessment, EQAO).
+14. Provincial assessments (e.g. EQAO) are a meaningful form of assessment.
+15. All classroom assessments should be adapted to suit the learning needs of identified students (e.g. English language learners).
+16. Students with exceptionalities should be provided with different classroom assessment than other students.
+17. For good assessment, teachers need to know how their students learn.
+18. Classroom assessment helps teachers identify the particular learning needs of any student.
+19. Classroom assessment results is a good indicator of the quality of a school.
+20. Assessment results reflect the quality of teaching.
+21. Assessment is an imprecise process.
+22. Observing students is a valid form of assessment.
+23. Classroom assessment is of little use to teachers on a day-to-day basis.
+24. Classroom assessment interrupts students' learning.
+25. Assessment is a stressful activity for students.
+26. Assessment takes time away from teaching.
+27. Teachers use too many assessments.
+28. Assessment is a positive force for improving the social climate in a class.
+29. Classroom assessments motivate students to do their best.
+30. Assessment is an engaging and enjoyable experience for students.
