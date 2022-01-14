@@ -13,3 +13,5 @@ bookdown::gitbook:
     edit: https://github.com/cmadland/assessment/edit/master/%s
     download: ["epub"]
 bookdown::epub_book: default
+bookdown::word_document2:
+    toc: true
