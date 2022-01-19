@@ -8,12 +8,61 @@
 
 ## Questions
 
+## Lit Review
+
+## Methods Overview
+
 ## Paper One - Theoretical Foundations of Assessment in Higher Education
 
 ### Defining Assessment
 
 ### Assessment vs. Measurement
 
+### Assessment Literacy
+
 ### Approaches to Assessment
 
-### 
+## Paper Two - Validating ACAI for HE
+
+### Problem
+
+- we don't know enough about how HEI approach assessment
+- ACAI-HE can help illuminate factors that influence HEI approaches, but needs to be validated for HE contexts
+
+### Purpose
+
+### Questions
+
+### Lit Review 
+
+### Methods
+
+### Results
+
+### Discussion
+
+### Conclusion
+
+## Paper Three - Implications for Assessment in Technology-saturated world
+
+### Problem
+- tech too often used to only increase efficiency instead of transforming what and how we assess
+- surveillance tech leads to inequitable experiences and outcomes for learners
+
+### Purpose
+
+### Questions
+
+### Methods
+
+### Results
+
+### Discussion
+
+### Conclusion
+
+## Integrated Results
+
+## Integrated Discussion
+
+## Integrated Conclusions
