@@ -18,10 +18,27 @@
 
 
 ### First Paper (Theoretical/Lit) - target journal & timeline, includes committee co-authors as appropriate 
+- Robust lit review of issues in assessment in higher Ed
+    - lack of formal preparation for instructors 
+    - limited knowledge of how instructors approach assessment
+    - misapplication of technology (surveillance, efficiency)
+#### Journals
+- [Assessment and Evaluation in Higher Education](https://www.tandfonline.com/toc/CAEH20/current)
+    - Gold Open Access - $3605USD
 
 ### Second Paper (ACAI Study) - target journal & timeline, includes committee co-authors as appropriate 
+- in-depth validation study of *ACAI* for higher ed 
+    - history and development of *ACAI*
+    - overview of research to this point (K-12, higher ed)
+    - development of *ACAI* for higher ed 
+    - include tech scenario?
 
 ### Third Paper (Technology and Assessment) - target journal (#words, sections) & timeline, includes committee co-authors as appropriate 
+- emergent themes based on first 2 papers   
+    - technology for adaptive testing, automated item generation, large-scale assessments (NCLEX, PISA, FSA, etc)
+    - technology for surveillance or academic integrity (Turnitin, Proctorio, etc)
+    - technology to enable new forms of learning- and learner-centred assessments (portfolios, collaboration, version control, learner contributors)
+    - ethical applications of technology in assessment
 
 ## Proposal for Paper 1: (not limited to journal word count? timeline) 
 ### Outline (outline) 
