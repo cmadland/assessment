@@ -1,68 +1,57 @@
-# Assessment in Higher Education
+# Proposal Outline
 
 ## Introduction
+- Overview of Assessment
+- History of Assessment Literacy and Instruments
+- *ACAI*
+- Assessment in Higher Ed
+- Impact of Technology on Assessment in Higher Ed
 
-## Problem
 
-## Purpose
+## Introduction to the Publication Dissertation Proposal (3-paper) 
+- 3 (or more) ***publishable*** papers addressing related themes
+- length is determined by particular journal requirements (5k-10K words)
+- papers are independent of each other
+- successful completion not contingent on publication, but publishability as determined by the committee
+- student as first author, co-authors accepted and encouraged 
+- lit review is usually covered in each individual paper, although there is sometimes a relatively brief overarching lit review in the final dissertation
 
-## Questions
 
-## Lit Review
+### First Paper (Theoretical/Lit) - target journal & timeline, includes committee co-authors as appropriate 
 
-## Methods Overview
+### Second Paper (ACAI Study) - target journal & timeline, includes committee co-authors as appropriate 
 
-## Paper One - Theoretical Foundations of Assessment in Higher Education
+### Third Paper (Technology and Assessment) - target journal (#words, sections) & timeline, includes committee co-authors as appropriate 
 
-### Defining Assessment
+## Proposal for Paper 1: (not limited to journal word count? timeline) 
+### Outline (outline) 
 
-### Assessment vs. Measurement
+## Proposal for Paper 2: (not limited to journal word count? timeline) 
 
-### Assessment Literacy
+### Outline (Intro, Lit, Methods) 
 
-### Approaches to Assessment
+## Proposal for Paper 3: (not limited to journal word count? timeline) 
 
-## Paper Two - Validating ACAI for HE
+### Emergent, either pulling from the ACAI results or initiating a new study alongside or after the study. 
 
-### Problem
+## Proposed format(s) for completed dissertation: 
 
-- we don't know enough about how HEI approach assessment
-- ACAI-HE can help illuminate factors that influence HEI approaches, but needs to be validated for HE contexts
+### Foreword 
 
-### Purpose
+### Paper 1 (outline) 
 
-### Questions
+### Paper 2 (Intro, Lit, Methods, Results, Conclusion) 
 
-### Lit Review 
+### Paper 3 (TBD) 
 
-### Methods
+### Afterword 
 
-### Results
+## Oral Exam Format: 
 
-### Discussion
+### Covers all sections of the completed dissertation 
 
-### Conclusion
+Back-up Plan should Paper 3 be abandoned (job opportunity emerges, etc.), then you would convert papers 1 and 2 into a monograph format. 
 
-## Paper Three - Implications for Assessment in Technology-saturated world
+ 
 
-### Problem
-- tech too often used to only increase efficiency instead of transforming what and how we assess
-- surveillance tech leads to inequitable experiences and outcomes for learners
-
-### Purpose
-
-### Questions
-
-### Methods
-
-### Results
-
-### Discussion
-
-### Conclusion
-
-## Integrated Results
-
-## Integrated Discussion
-
-## Integrated Conclusions
+ 
