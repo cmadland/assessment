@@ -1,6 +1,6 @@
-# Proposal Outline
+# Proposal Outline {-}
 
-## Introduction
+## Introduction {-}
 - Overview of Assessment
 - History of Assessment Literacy and Instruments
 - *ACAI*
@@ -8,7 +8,7 @@
 - Impact of Technology on Assessment in Higher Ed
 
 
-## Introduction to the Publication Dissertation Proposal (3-paper) 
+### Three Paper Dissertation Model  {-} (Methods Overview or Overview of Dissertation Papers or Dissertation Structure
 - 3 (or more) ***publishable*** papers addressing related themes
 - length is determined by particular journal requirements (5k-10K words)
 - papers are independent of each other
@@ -16,56 +16,98 @@
 - student as first author, co-authors accepted and encouraged 
 - lit review is usually covered in each individual paper, although there is sometimes a relatively brief overarching lit review in the final dissertation
 
+#### Timeline for dissertation
+- first 2 published at same time
 
-### First Paper (Theoretical/Lit) - target journal & timeline, includes committee co-authors as appropriate 
+### First Paper (Theoretical/Lit) - (Madland, Irvine, DeLuca & Bulut)  Actual title {-}
 - Robust lit review of issues in assessment in higher Ed
     - lack of formal preparation for instructors 
     - limited knowledge of how instructors approach assessment
     - misapplication of technology (surveillance, efficiency)
-#### Journals
+#### Journals {-}
 - [Assessment and Evaluation in Higher Education](https://www.tandfonline.com/toc/CAEH20/current)
     - Gold Open Access - $3605USD
+- [Assessment in Education: Principles, Policy, & Practice](https://www.tandfonline.com/toc/caie20/current)
+    - Gold Open Access - $2885USD
 
-### Second Paper (ACAI Study) - target journal & timeline, includes committee co-authors as appropriate 
+#### Timeline {-} 
+- Summer 2022
+
+### Second Paper (ACAI Study) - (Madland, DeLuca, Bulut & Irvine) {-}
 - in-depth validation study of *ACAI* for higher ed 
     - history and development of *ACAI*
     - overview of research to this point (K-12, higher ed)
     - development of *ACAI* for higher ed 
     - include tech scenario?
 
-### Third Paper (Technology and Assessment) - target journal (#words, sections) & timeline, includes committee co-authors as appropriate 
+#### Journals  {-}
+- [Assessment, Testing and Applied Measurement (Frontiers in Education)](https://www.frontiersin.org/journals/education/sections/assessment-testing-and-applied-measurement#)
+    - APC - $950USD
+
+#### Timeline {-}
+- Spring 2023
+
+### Third Paper (Technology and Assessment) - (Madland & Irvine) {-} 
 - emergent themes based on first 2 papers   
     - technology for adaptive testing, automated item generation, large-scale assessments (NCLEX, PISA, FSA, etc)
     - technology for surveillance or academic integrity (Turnitin, Proctorio, etc)
     - technology to enable new forms of learning- and learner-centred assessments (portfolios, collaboration, version control, learner contributors)
     - ethical applications of technology in assessment
 
-## Proposal for Paper 1: (not limited to journal word count? timeline) 
-### Outline (outline) 
+#### Journals {-}
+- [OTESSA](https://journal.otessa.org/index.php/oj)
+    - APC - None
+- [IRRODL](https://irrodl.org)
+    - APC - None
 
-## Proposal for Paper 2: (not limited to journal word count? timeline) 
+#### Timeline {-}
+- Summer 2023
 
-### Outline (Intro, Lit, Methods) 
+<!---
+## Proposal for Paper 1: (not limited to journal word count? timeline)  {-}
+### Outline (outline)  {-}
 
-## Proposal for Paper 3: (not limited to journal word count? timeline) 
+## Proposal for Paper 2: (not limited to journal word count? timeline) {-} 
 
-### Emergent, either pulling from the ACAI results or initiating a new study alongside or after the study. 
+### Outline (Intro, Lit, Methods)  {-}
 
-## Proposed format(s) for completed dissertation: 
+## Proposal for Paper 3: (not limited to journal word count? timeline)  {-}
 
-### Foreword 
+### Emergent, either pulling from the ACAI results or initiating a new study alongside or after the study.  {-}
+--->
 
-### Paper 1 (outline) 
+## Proposed format(s) for completed dissertation:  {-}
 
-### Paper 2 (Intro, Lit, Methods, Results, Conclusion) 
+### Foreword  {-}
+- Introduction as above.
 
-### Paper 3 (TBD) 
+### Paper 1  {-}
+- Introduction
+- Foundational Papers
+- Historical Frameworks
+- Modern Frameworks
+- *ACAI*
+- Higher Education
+- Technology 
 
-### Afterword 
+### Paper 2 {-}
+- Intro 
+- Lit 
+- Methods
+- Results
+- Conclusion
 
-## Oral Exam Format: 
+### Paper 3 (TBD)  {-}
+- Emergent structure and themes based on first two papers.
 
-### Covers all sections of the completed dissertation 
+### Afterword  {-}
+- Summary Conclusions
+    - integrated thematic results
+- Recommendations
+
+## Oral Exam Format:  {-}
+- Covers all sections of the completed dissertation
+- Responsible for all methods, findings, conclusions, and recommendations in all 3 papers
 
 Back-up Plan should Paper 3 be abandoned (job opportunity emerges, etc.), then you would convert papers 1 and 2 into a monograph format. 
 
