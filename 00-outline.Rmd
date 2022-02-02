@@ -1,115 +1,149 @@
 # Proposal Outline {-}
 
-## Introduction {-}
-- Overview of Assessment
-- History of Assessment Literacy and Instruments
-- *ACAI*
-- Assessment in Higher Ed
-- Impact of Technology on Assessment in Higher Ed
 
+## Introduction  {-}  
+### Overview of Assessment{-}  
+### History of Assessment Literacy and Instruments{-}  
+### Approaches to Assessment{-}  
+### Assessment in Higher Ed{-}  
+### Impact of Technology on Assessment in Higher Ed{-}  
+ 
 
-### Three Paper Dissertation Model  {-} (Methods Overview or Overview of Dissertation Papers or Dissertation Structure
-- 3 (or more) ***publishable*** papers addressing related themes
-- length is determined by particular journal requirements (5k-10K words)
-- papers are independent of each other
-- successful completion not contingent on publication, but publishability as determined by the committee
-- student as first author, co-authors accepted and encouraged 
-- lit review is usually covered in each individual paper, although there is sometimes a relatively brief overarching lit review in the final dissertation
+## Dissertation Structure {-}
 
-#### Timeline for dissertation
+### Overview of Dissertation Papers{-}
+
+- Dissertation papers must be determined by the committee to be _publishable_.   
+- At UVic, it is typical that one must be in publication at the time of the oral defense and the other two should have been submitted for publication.  
+- The PhD student must be first author on all papers considered for the dissertation, but co-authors are common and can be determined within the committee.  
+- While individual journals provide word limits, the papers considered for the dissertation may exceed those limits for assessment purposes, then be revised for publication.  
+- There are typically 5 chapters, but more may be determined to be necessary.
+
+### Timeline for dissertation{-}
 - first 2 published at same time
 
-### First Paper (Theoretical/Lit) - (Madland, Irvine, DeLuca & Bulut)  Actual title {-}
-- Robust lit review of issues in assessment in higher Ed
-    - lack of formal preparation for instructors 
-    - limited knowledge of how instructors approach assessment
-    - misapplication of technology (surveillance, efficiency)
-#### Journals {-}
-- [Assessment and Evaluation in Higher Education](https://www.tandfonline.com/toc/CAEH20/current)
-    - Gold Open Access - $3605USD
+## Paper 1 - *Assessment in higher education: A review of the literature* (Madland, Irvine, DeLuca & Bulut)  {-}
+
+**Journal**  
+
+- [Assessment and Evaluation in Higher Education](https://www.tandfonline.com/toc/CAEH20/current)  
+    - 7000 words incl. tables, references, captions, footnotes, endnotes  
+    - Gold Open Access - $3605USD  
+
+### Defining Assessment.{-}  
+
+### Assessment and Measurement.{-}  
+
+### Assessment Literacy{-}  
+
+### Approaches to Assessment{-}  
+
+### Assessment in Higher Education. {-}  
+
+### Impact of Technology on Assessment in Higher Education {-}  
+
+<!---
+
 - [Assessment in Education: Principles, Policy, & Practice](https://www.tandfonline.com/toc/caie20/current)
     - Gold Open Access - $2885USD
 
-#### Timeline {-} 
+
+### Timeline {-} 
 - Summer 2022
-
-### Second Paper (ACAI Study) - (Madland, DeLuca, Bulut & Irvine) {-}
-- in-depth validation study of *ACAI* for higher ed 
-    - history and development of *ACAI*
-    - overview of research to this point (K-12, higher ed)
-    - development of *ACAI* for higher ed 
-    - include tech scenario?
-
-#### Journals  {-}
-- [Assessment, Testing and Applied Measurement (Frontiers in Education)](https://www.frontiersin.org/journals/education/sections/assessment-testing-and-applied-measurement#)
-    - APC - $950USD
-
-#### Timeline {-}
-- Spring 2023
-
-### Third Paper (Technology and Assessment) - (Madland & Irvine) {-} 
-- emergent themes based on first 2 papers   
-    - technology for adaptive testing, automated item generation, large-scale assessments (NCLEX, PISA, FSA, etc)
-    - technology for surveillance or academic integrity (Turnitin, Proctorio, etc)
-    - technology to enable new forms of learning- and learner-centred assessments (portfolios, collaboration, version control, learner contributors)
-    - ethical applications of technology in assessment
-
-#### Journals {-}
-- [OTESSA](https://journal.otessa.org/index.php/oj)
-    - APC - None
-- [IRRODL](https://irrodl.org)
-    - APC - None
-
-#### Timeline {-}
-- Summer 2023
-
-<!---
-## Proposal for Paper 1: (not limited to journal word count? timeline)  {-}
-### Outline (outline)  {-}
-
-## Proposal for Paper 2: (not limited to journal word count? timeline) {-} 
-
-### Outline (Intro, Lit, Methods)  {-}
-
-## Proposal for Paper 3: (not limited to journal word count? timeline)  {-}
-
-### Emergent, either pulling from the ACAI results or initiating a new study alongside or after the study.  {-}
 --->
 
-## Proposed format(s) for completed dissertation:  {-}
+## Paper 2 - *Validating the* Approaches to Classroom Assessment Inventory *in higher education* - (Madland, DeLuca, Bulut & Irvine) {-}
+**Journal**  
 
-### Foreword  {-}
-- Introduction as above.
+- [Assessment, Testing and Applied Measurement (Frontiers in Education)](https://www.frontiersin.org/journals/education/sections/assessment-testing-and-applied-measurement#about)  
+    - "Free from the restrictions created by print-based page limits, studies in this section need only demonstrate robustness in theory, method, and analysis to be accepted. The significance or importance of a paper will be decided by open-access readership who will hopefully cite and draw on the work in this section."  
+    - APC - $950USD  
 
-### Paper 1  {-}
-- Introduction
-- Foundational Papers
-- Historical Frameworks
-- Modern Frameworks
-- *ACAI*
-- Higher Education
-- Technology 
+### History and Development of *ACAI* {-}  
 
-### Paper 2 {-}
-- Intro 
-- Lit 
-- Methods
-- Results
-- Conclusion
+### Overview of research {-}  
 
-### Paper 3 (TBD)  {-}
-- Emergent structure and themes based on first two papers.
+### Development of *ACAI* for higher ed {-}  
 
-### Afterword  {-}
-- Summary Conclusions
-    - integrated thematic results
-- Recommendations
+### Methods {-}  
 
-## Oral Exam Format:  {-}
+### Results {-}  
+
+### Discussion {-}  
+
+### Conclusions and Recommendations {-}  
+
+<!---
+
+
+
+### Timeline {-}
+- Spring 2023
+--->
+
+## Paper 3 (Emergent) - *Assessment and technology in higher education* (Madland, Irvine, Bulut, DeLuca) {-} 
+
+**Journal**  
+
+- [OTESSA](https://journal.otessa.org/index.php/oj)  
+    - 4000-7000 words  
+    - APC - None  
+- emergent themes based on first 2 papers, which ***may*** include:   
+    - technology for adaptive testing, automated item generation, large-scale assessments (NCLEX, PISA, FSA, etc)  
+    - technology for surveillance or academic integrity (Turnitin, Proctorio, etc)  
+    - technology to enable new forms of learning- and learner-centred assessments (portfolios, collaboration, version control, learner contributors)  
+    - ethical applications of technology in assessment  
+
+### Introduction  {-}
+
+### Literature    {-}
+
+### Theoretical / Conceptual Framework    {-}
+
+### Research Method   {-}
+
+### Analysis   {-}
+
+### Findings and Limitations   {-}
+
+### Discussion  {-}
+
+### Impact on theory and/or practice   {-}
+
+### Recommendations for future research   {-}
+
+### Conclusion   {-}
+
+### Data Availability   {-}
+
+### References   {-}
+
+
+
+
+## Proposed format(s) for completed dissertation:  {-}  
+The following structure represents the minimal expectation for a 3-paper dissertation. Other chapters may become necessary, depending on the course of the studies and emergent themes.  
+
+### Introduction (2000 words) {-}
+
+### Paper 1 (4000-7000 words) {-}
+
+### Paper 2 (4000-7000 words) {-}
+
+### Paper 3 (4000-7000 words)  {-}
+
+### Conclusions and Recommendations (2000-3000 words)  {-}
+
+### References {-}
+
+### Appendices {-}
+
+## Oral Exam Format  {-}
 - Covers all sections of the completed dissertation
 - Responsible for all methods, findings, conclusions, and recommendations in all 3 papers
 
-Back-up Plan should Paper 3 be abandoned (job opportunity emerges, etc.), then you would convert papers 1 and 2 into a monograph format. 
+## Back-up Plan  {-} 
+- should Paper 3 be abandoned (job opportunity emerges, etc.), then convert papers 1 and 2 into a monograph format. 
 
  
 
