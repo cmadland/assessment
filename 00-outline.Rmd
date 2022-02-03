@@ -14,15 +14,22 @@
 ### Overview of Dissertation Papers{-}
 
 - Dissertation papers must be determined by the committee to be _publishable_.   
-- At UVic, it is typical that one must be in publication at the time of the oral defense and the other two should have been submitted for publication.  
-- The PhD student must be first author on all papers considered for the dissertation, but co-authors are common and can be determined within the committee.  
+- At UVic, it is typical that one is in publication at the time of the oral defense and the other two should have been submitted for publication.  
+- The PhD student must be first author on all papers considered for the dissertation, but co-authors are common and can be determined within the committee. 
+<!--- 
 - While individual journals provide word limits, the papers considered for the dissertation may exceed those limits for assessment purposes, then be revised for publication.  
-- There are typically 5 chapters, but more may be determined to be necessary.
+--->
+- There are typically 5 chapters in the dissertation, but more may be determined to be necessary.
 
-### Timeline for dissertation{-}
-- first 2 published at same time
+### Timeline for Dissertation{-}
+- First paper held back until second paper Proposal
+- proposal for paper 2 [DATE]
+- paper 2 Timeline
+- proposal for paper 3
+- paper 3 Timeline
+- full dissertation draft
 
-## Paper 1 - *Assessment in higher education: A review of the literature* (Madland, Irvine, DeLuca & Bulut)  {-}
+## Paper 1 - Assessment in higher education: A review of the literature (Madland, Irvine, DeLuca, & Bulut)  {-}
 
 **Journal**  
 
@@ -61,9 +68,9 @@
 
 ### History and Development of *ACAI* {-}  
 
-### Overview of research {-}  
+### Overview of Research {-}  
 
-### Development of *ACAI* for higher ed {-}  
+### Development of *ACAI* for Higher Education {-}  
 
 ### Methods {-}  
 
@@ -85,10 +92,10 @@
 
 **Journal**  
 
-- [OTESSA](https://journal.otessa.org/index.php/oj)  
+- [OTESSA Journal](https://journal.otessa.org/index.php/oj)  
     - 4000-7000 words  
     - APC - None  
-- emergent themes based on first 2 papers, which ***may*** include:   
+- Emergent themes based on first two papers, which ***may*** include:   
     - technology for adaptive testing, automated item generation, large-scale assessments (NCLEX, PISA, FSA, etc)  
     - technology for surveillance or academic integrity (Turnitin, Proctorio, etc)  
     - technology to enable new forms of learning- and learner-centred assessments (portfolios, collaboration, version control, learner contributors)  
@@ -108,9 +115,9 @@
 
 ### Discussion  {-}
 
-### Impact on theory and/or practice   {-}
+### Impact on Theory and/or Practice   {-}
 
-### Recommendations for future research   {-}
+### Recommendations for Future Research   {-}
 
 ### Conclusion   {-}
 
@@ -119,6 +126,7 @@
 ### References   {-}
 
 
+## Conclusions and Recommendations {-}
 
 
 ## Proposed format(s) for completed dissertation:  {-}  
@@ -143,8 +151,16 @@ The following structure represents the minimal expectation for a 3-paper dissert
 - Responsible for all methods, findings, conclusions, and recommendations in all 3 papers
 
 ## Back-up Plan  {-} 
-- should Paper 3 be abandoned (job opportunity emerges, etc.), then convert papers 1 and 2 into a monograph format. 
+- Should Paper 3 be abandoned (job opportunity emerges, etc.), then convert papers 1 and 2 into a monograph format. 
 
  
 
  
+
+Notes
+- indent headings
+journal: Link
+suggested outline
+- line spacing
+- add links to other 3-paper projects resources
+- rationale for 3-paper dissertation
