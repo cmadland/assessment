@@ -1,6 +1,6 @@
 # Proposal Outline {-}
 
-Below is a proposed outline for a completed 3-paper dissertation. Should this format be deemed acceptable, this outline will form the basis of my formal dissertation proposal. Level two headings in this document represent the chapters in the completed dissertation, and level three headings (in italics) represent possible outlines for each of the individual papers.
+Below is a proposed outline for a completed 3-paper dissertation. Should this format be deemed acceptable, this outline will form the basis of my formal dissertation proposal. Level two headings in this document represent the chapters in the completed dissertation, and level three headings (in italics) represent possible headings for each of the individual papers, subject to modification.
 
 ## Introduction  {-}  
 ### Overview of Assessment{-}  
@@ -10,9 +10,9 @@ Below is a proposed outline for a completed 3-paper dissertation. Should this fo
 ### Impact of Technology on Assessment in Higher Ed{-} 
 
 
-## Paper 1 - *Assessment In Higher Education: A Review of the Literature*  {-}
+## Paper 1 - Assessment In Higher Education: A Review of the Literature  {-}
 
-- **Journal:** [Assessment and Evaluation in Higher Education](https://www.tandfonline.com/toc/CAEH20/current)
+- **Proposed Journal:** [Assessment and Evaluation in Higher Education](https://www.tandfonline.com/toc/CAEH20/current)
     - 7000 words including tables, references, captions, footnotes, endnotes
     - Gold Open Access - $3605USD
 
@@ -35,9 +35,9 @@ Below is a proposed outline for a completed 3-paper dissertation. Should this fo
 
 --->
 
-## Paper 2 - *Validating the Approaches to Classroom Assessment Inventory (ACAI) in Higher Education* {-}
+## Paper 2 - Validating the Approaches to Classroom Assessment Inventory (ACAI) in Higher Education {-}
 
-- **Journal:** [Assessment, Testing and Applied Measurement (Frontiers in Education)](https://www.frontiersin.org/journals/education/sections/assessment-testing-and-applied-measurement#about)
+- **Proposed Journal:** [Assessment, Testing and Applied Measurement (Frontiers in Education)](https://www.frontiersin.org/journals/education/sections/assessment-testing-and-applied-measurement#about)
     - "Free from the restrictions created by print-based page limits, studies in this section need only demonstrate robustness in theory, method, and analysis to be accepted. The significance or importance of a paper will be decided by open-access readership who will hopefully cite and draw on the work in this section."
     - APC - $950USD
 
@@ -45,7 +45,9 @@ Below is a proposed outline for a completed 3-paper dissertation. Should this fo
 
 ### Overview of Research {-}  
 
-### Development of *ACAI* for Higher Education {-}  
+### Development of *ACAI* for Higher Education {-} 
+-	Revisions to *ACAI*
+-	Pilot study
 
 ### Methods {-}  
 
@@ -63,9 +65,9 @@ Below is a proposed outline for a completed 3-paper dissertation. Should this fo
 - Spring 2023
 --->
 
-## Paper 3 (Emergent) - *Assessment and Technology in Higher Education* {-} 
+## Paper 3 (Emergent) - Paper related to Assessment and Technology in Higher Education {-} 
 
-- **Journal:** [OTESSA Journal](https://journal.otessa.org/index.php/oj)
+- **Proposed Journal:** [OTESSA Journal](https://journal.otessa.org/index.php/oj)
     - 4000-7000 words
     - APC - None
 - Emergent themes based on first two papers, which ***may*** include:

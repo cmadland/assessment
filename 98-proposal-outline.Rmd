@@ -1,8 +1,10 @@
-## Proposal for 3-Paper Dissertation {-}
+## Dissertation Proposal Overview {-}
 
-This document outlines a proposal and rationale for a 3-paper dissertation. The rationale for this suggestion is that the topic, approaches to assessment in higher education, lends itself well to approaches from different frameworks, namely, a theoretical framework, a measurement or validation framework, and a framework more descriptive of the role and impact of technology on assessment in higher education. In our discussions as a committee, it has become clear that further work is warranted in addressing both the *Approaches to Classroom Assessment Inventory* in higher education and also the role and influence of technology on assessment in higher education, especially in light of the last two years of emergency remote teaching. Further advantages of the 3-paper dissertation model include the built-in mentorship in the publication workflow including peer-review, revisions, and communicating with editors and journals. 
+Please read this document first.
 
-UVic Graduate Studies supports this model of dissertation, and Dr. Irvine has observed colleagues supervising students in this model. You can find my notes based on a conversation Dr. Irvine had with [a student who completed a 3-paper dissertation here](https://cmadland.github.io/Dendron/notes/4HuJK1YbDiF5JO1p0COda/).  [Queen’s supports this model](https://www.queensu.ca/politics/sites/webpublish.queensu.ca.polswww/files/files/Graduate/Article-Based Dissertation Guidelines.pdf), as does [UAlberta](https://www.ualberta.ca/linguistics/media-library/gradforms/paperbaseddissertations.pdf).
+This document outlines a proposal and rationale for a 3-paper dissertation involving a literature review, a validation study of the ACAI in higher education, and an emergent study of the impact of technology on assessment in higher education based on the preliminary results of the ACAI study. The rationale for this suggestion is that the topic, approaches to assessment in higher education, lends itself well to approaches from different ~~frameworks, namely, a theoretical framework, a measurement or validation framework, and a framework more descriptive of the role and impact of technology on assessment in higher education.~~ [Revise from 'Framework'] In our discussions as a committee, it has become clear that further work is warranted in addressing both the *Approaches to Classroom Assessment Inventory* in higher education and also the role and influence of technology on assessment in higher education, especially in light of the last two years of emergency remote teaching. Further advantages of the 3-paper dissertation model include the built-in mentorship in the publication workflow including peer-review, revisions, and communicating with editors and journals. 
+
+UVic Graduate Studies supports this model of dissertation, and Dr. Irvine has observed colleagues supervising students in this model. You can find my notes based on a recording of a lab meeting where [Dr. Irvine invited Mariel Miller, a Ph.D. student who completed a 3-paper dissertation, to share her experiences with the process](https://cmadland.github.io/Dendron/notes/4HuJK1YbDiF5JO1p0COda/).  It may be helpful to note that [Queen’s supports this model](https://www.queensu.ca/politics/sites/webpublish.queensu.ca.polswww/files/files/Graduate/Article-Based Dissertation Guidelines.pdf), as does [UAlberta](https://www.ualberta.ca/linguistics/media-library/gradforms/paperbaseddissertations.pdf), but I welcome any input the committee may have on this direction.
 
 ## Sample 3-Paper Dissertations {-}
 
@@ -18,10 +20,9 @@ Miller, M. (2015). [Leveraging CSCL technology to support and research shared ta
 3-paper dissertations come in a variety of structures, but the most common requirements include:
 
 - Individual dissertation papers must be determined by the committee to be *publishable*.
-- At UVic, it is typical that one is in publication at the time of the oral defense and the other two should have been submitted for publication.
 - The PhD student must be first author on all papers considered for the dissertation, but co-authors are common and can be determined within the committee. 
 - Each paper must stand independent of the others, yet be connected to each other in addressing the same theme or problem.
-- There are typically 5 chapters in the dissertation, but more may be determined to be necessary.
+- There are typically 5 chapters in the dissertation, but more may be determined to be necessary. Suggested chapter titles include: 
     - Introduction, Problem, and Research Questions
     - Article 1
     - Article 2
@@ -32,7 +33,7 @@ Miller, M. (2015). [Leveraging CSCL technology to support and research shared ta
 ## Proposed Timeline {-}
 - [Link to Google Doc](https://docs.google.com/document/d/1zAxGqrooMhEpeRiFOlRfjH0UbGu6h1PTKG-gm6VMQs8/edit?usp=sharing)
 
-## Oral Exam Strucutre {-}
+## Oral Exam Structure {-}
 The oral exam for a 3-paper dissertation covers all sections of the completed dissertation, with the PhD candidate responsible for all frameworks, methods, analyses, findings, conclusions and recommendations in all three papers as well as the overall conclusions and recommendations of the complete dissertation.
 
 ## Back-up Plan {-}
