@@ -1,0 +1,41 @@
+# Assessment in Digital Learning {-}
+
+- Emergent themes based on first two papers, which ***may*** include:
+    - technology for adaptive testing, automated item generation, large-scale assessments (NCLEX, PISA, FSA, etc)
+    - technology for surveillance or academic integrity (Turnitin, Proctorio, etc)
+    - technology to enable new forms of learning- and learner-centred assessments (portfolios, collaboration, version control, learner contributors)
+    - ethical applications of technology in assessment
+
+### Introduction  {-}
+
+### Literature    {-}
+
+### Theoretical / Conceptual Framework    {-}
+
+### Research Method   {-}
+
+### Analysis   {-}
+
+### Findings and Limitations   {-}
+
+### Discussion  {-}
+
+### Impact on Theory and/or Practice   {-}
+
+### Recommendations for Future Research   {-}
+
+### Conclusion   {-}
+
+### Data Availability   {-}
+
+### References   {-}
+
+
+## Conclusions and Recommendations {-}
+
+## References {-}
+
+## Appendices {-}
+
+
+
