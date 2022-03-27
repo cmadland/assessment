@@ -13,8 +13,4 @@ github-repo: cmadland/assessment
 description: "This site hosts the open development of my PhD dissertation at University of Victoria."
 ---
 
-# Welcome {-}
 
-This site hosts the open development of my PhD dissertation at University of Victoria. It is an active work in progress.
-
-Please contact me at cmadland [at] uvic [dot] ca if you have questions or comments. Alternately, you can annotate with hypothes.is, which is active in the top, right corner. Keep in mind, that with regular updates, your annotation may very well become orphaned.

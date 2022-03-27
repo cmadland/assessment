@@ -12,11 +12,14 @@ Furthermore, pressures from our increasingly technological society have also imp
 
 Additionally, the datafication of higher education has made very large data sets available to individual instructors as well as to learning technology administrators. This is often in the form of log data from learning management systems (LMS) which has been used to explore relationships between learner behaviours in the LMS and achievement [@pardoBidirectionalEffectData2020; @stadlerFirstEqualsLog2020]. Shute and Rahimi reported on their exploration of what they call "stealth assessments" [-@shuteStealthAssessmentCreativity2021, p. 4] where large amounts of data are collected as learners interact in game-based learning environments. They argue that stealth assessments, which learners do not notice because they are woven seamlessly into the learning materials and automatically scored based help to alleviate test anxiety for learners, leading to greater achievement [@shute21stCenturyAssessment2010]. Milligan writes about the optimism with which early learning analytics researchers advocated for using big data that [-@milliganStandardsDevelopingAssessments2020]
 
+<!--
 ## Problem to be Researched{-}
 
 Given the plurality of factors influencing higher education instructors identified above and the relative paucity of published research on assessment in higher education compared to K-12 [@lipnevichWhatGradesMean2020; @masseyAssessmentLiteracyCollege2020], this dissertation will unfold over the course of three independent publications. The common thread running through the three publications will be a focus on the problem of the alignment gap between the assessment practices of many higher education instructors and the goals and objectives of modern higher education institutions. Each publication will explore this topic from different viewpoints, or lenses. The first paper will be a detailed review of the literature related to assessment and the impacts of technology on assessment in higher education using DeLuca et al.'s [-@delucaApproachesClassroomAssessment2016] approaches to classroom assessment framework. The second paper will be a quantitative analysis of DeLuca et al.'s *Approaches to Classroom Assessment Inventory* [-@delucaACAIInstrumentSpecificationsND] revised for a technologically-mediated higher education environment. The third paper will consist of a synthesis of findings from the first two papers with a view to reimagining assessment in 21st-century higher education and consideration given to the ethics of modern trends in technology.
 
+
 ~~The author notes that there are myriad examples of formal and informal initiatives in higher education which have not realized significant local or systemic change [@broadfootAssessmentTwentyFirstCenturyLearning2016; @earlAssessmentLearningUsing2013]. Instructors are highly resistant to changing their assessment practices, in part, as Broadfoot claims, because assessment is so important, but also, as will be discussed later, because the approaches that individual instructors take to assessing the work of learners are driven by complex forces [@blackAssessmentClassroomLearning1998; @delucaDifferentialSituatedView2019; @stigginsAssessmentLiteracy1991; @willisConceptualisingTeachersAssessment2013].~~
+
 
 ## Purpose of the Research{-}
 
@@ -35,3 +38,4 @@ Assessment in HE is a tremendously complex enterprise with myriad forces influen
 
 ## Significance of the Research{-}
 
+-->
