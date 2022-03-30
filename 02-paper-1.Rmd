@@ -11,12 +11,14 @@
 
 ## Purpose {-}
 
-- the purpose of this literature review will be to analyze, synthesize and critique the literature since 2000 related to how instructors in higher education approach classroom assessment in increasingly technology-mediated environments.
+- the purpose of this literature review will be to analyze, synthesize and critique the literature since 2010 related to how instructors in higher education approach classroom assessment in increasingly technology-mediated environments.
 
 ## Questions {-}
 
-1. What are the major themes or patterns in the literature related to assessment in technology-mediated higher education?
-2. What gaps exist in the literature related to assessment in technology-mediated higher education?
+1. What are the major themes or patterns in the literature related to assessment in higher education?
+2. What are the major themes or patterns in the literature related to the impact of technology on assessment in higher education?
+3. What gaps exist in the literature related to assessment in technology-mediated higher education?
+
 
 ## Defining Assessment {-}
 
@@ -30,9 +32,16 @@
 
 ### Modern Conceptions of Assessment {-}
 
-- More recently, Earl [-@earlAssessmentLearningUsing2013] further clarified the role assessment can play in learning by highlighting a distinction between assessment *of* learning (summative assessment) and assessment *for* learning (formative assessment by way of feedback) and also distinguishing both of those from assessment *as* learning (a subset of assessment *for* learning in which learners employ metacognitive skills to regulate their own learning tasks).  
-- The definitions of assessment above are typically understood as being *classroom assessment*, language which is more readily applied to face-to-face K-12 learning environments as opposed to higher education environments mediated by technology. For the purposes of this paper, I will consider assessment *of* learning and summative assessment to be essentially synonymous, and I will differentiate between assessment *for* and *as* learning. I will use the term *classroom assessment* to differentiate from *large-scale assessment*, understood to be assessments deployed at levels above individual classrooms, such as school-, system-, or provincial/federal-levels. The focus of this paper will be on classroom assessment in higher education.
+- Since ~2010, there has been a shift in how researchers view assessment towards assessment being a complex, multi-faceted construct in which instructors bring with them a host of experiences and beliefs about assessment, some of which were passed down from their own instructors [@lipnevichWhatGradesMean2020; @masseyAssessmentLiteracyCollege2020], but others are based in course and institutional policies, and the social dynamics within their department [@brownQueenslandTeachersConceptions2011].
+- Earl [-@earlAssessmentLearningUsing2013] further clarified the role assessment can play in learning by highlighting a distinction between assessment *of* learning (summative assessment) and assessment *for* learning (formative assessment by way of feedback) and also distinguishing both of those from assessment *as* learning (a subset of assessment *for* learning in which learners employ metacognitive skills to regulate their own learning tasks).  
+- DeLuca et al. [-@delucaEstablishingFoundationValid2013] argue that there are categories of conceptions exhibited by K-12 preservice teachers: assessment as testing, assessment as format, assessment purpose, and assessment as process. These conceptions are seen as increasingly complex, with those who see assessment as testing believing that assessment is primarily concerned with summative assessment of learning, usually using teacher-created selected-response tests. Those who see assessment as format tend to focus on whether the assessment is a "performance, product, or objectively-scored assessment" (p. 110). Assessment as purpose is delineated according to the summative/formative binary or Earl's [-@earlAssessmentLearningUsing2013] assessment *of/for/as* learning model. DeLuca et al. also identify other purposes of assessment such as accountability, gatekeeping, and teacher evaluation. Lastly, assessment as process, which is based on the National Research Council's description of assessment being a process of reasoning from evidence [-@pellegrinoKnowingWhatStudents2001].
+- Fletcher et al. [-@fletcherFacultyStudentsConceptions2012] used Brown's [-@brownTeachersConceptionsAssessment2017] abridged *Conceptions of Assessment* (CoA) questionnaire to measure learners' and instructors' conceptions as follows: "assessment makes institutions accountable, assessment makes students accountable, assessment describes improvements in student abilities, assessment improves student learning, assessment improves teaching, assessment is valid, assessment is irrelevant and bad, assessment is irrelevant and ignored, and assessment is irrelevant and inaccurate" (p. 122). They report that instructors were more likely than learners to view assessment as consistent and trustworthy methods to understand and improve learning and that learners were more likely to have negative views of assessment and viewed it as a measure of student and institutional accountability.
+- Massey et al. [-@masseyAssessmentLiteracyCollege2020] used DeLuca et al.'s [-@delucaEstablishingFoundationValid2013] framework of conceptions in their study of HE instructors' conceptions of assessment before and after an instructional development course focussed on assessment. They also considered the idea that there are two general orientations towards assessment in HE, an "assessment culture" and a "testing culture" [@birenbaumAssessment2000Pluralistic1996; @birenbaumNewInsightsLearning2003, as cited in @masseyAssessmentLiteracyCollege2020]. They report that they saw significant shifts in participants' conceptions of assessment from more simplistic views of assessment as testing pre-treatment, to more complex and nuanced views or assessment as process post-treatment.
 
+
+## Assessment Literacy {-}
+
+## Approaches to Assessment {-}
 
 ## Assessment and Measurement	 {-}
 
@@ -42,9 +51,7 @@
 
 ### Fairness {-}
 
-## Assessment Literacy {-}
 
-## Approaches to Assessment {-}
 
 ## Assessment in Higher Education	 {-}
 
