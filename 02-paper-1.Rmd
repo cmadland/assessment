@@ -97,8 +97,10 @@
 
 ## Assessment in Higher Education	 {-}
 
-#### Section Abstract
+#### Section Abstract {-}
 
-> The preponderance of the literature on assessment is published in the context of K12 schooling, and there is comparitively less published specific to higher education.
+> The preponderance of the literature on assessment is published in the context of K12 schooling, and there is comparitively less published specific to higher education. The higher education context differs from K12 in significant ways, including instructors having greater freedom and autonomy in how they approach assessment in their courses and also in that higher education instructors generally do not have access to formal academic preparation for teaching or assessment. This tends to lead to both a wide variety of approaches to assessment and also a widespread reliance on instructors approaching assessment in the same way their instructors approached assessment.
 
 ## Impact of Technology on Assessment in Higher Education	 {-}
+
+> The literature shows that technology is ubiquitous in higher education and has had significant impacts, with both instructors and learners creating digital documents and other artifacts. However, the literature also shows that technology has been slower to impact the kinds of assessments that instructors use in their classes. 
