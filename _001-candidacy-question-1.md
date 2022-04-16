@@ -4,7 +4,19 @@
 
 ---
 
-
+- [Candidacy Question 1](#candidacy-question-1)
+  - [Topic of the Research](#topic-of-the-research)
+  - [Problem to be Researched](#problem-to-be-researched)
+  - [Purpose of the Research](#purpose-of-the-research)
+  - [Structure of the Paper](#structure-of-the-paper)
+  - [Defining Assessment](#defining-assessment)
+  - [Conceptions of Assessment](#conceptions-of-assessment)
+  - [Assessment Literacy](#assessment-literacy)
+  - [Assessment and Technology](#assessment-and-technology)
+  - [Impact on Learners](#impact-on-learners)
+  - [Theoretical Framework Overview](#theoretical-framework-overview)
+  - [Summary and Research Questions](#summary-and-research-questions)
+  - [Significance of the Research](#significance-of-the-research)
 
 Assessing learning is both a critical component of the work of teaching in higher education (HE) and also a major factor in learners' experiences of HE [@biggsWhatStudentDoes1999; @birenbaumAssessmentInstructionPreferences2007; @woldeab21stCenturyAssessment2019]. Instructors in HE often inherit the assessment practices of their supervisors and instructors [@lipnevichWhatGradesMean2020], potentially leading to over-reliance on practices that may not align with modern assessment theories [@boudChallengesReformingHigher2020; @masseyAssessmentLiteracyCollege2020; @shepardRoleAssessmentLearning2000]. These traditional practices tend to emphasize summative, selected-response tests [@floresPerceptionsEffectivenessFairness2015; @harlenSystematicReviewImpact2002; @lipnevichWhatGradesMean2020] which may be {>>“May be” is infusing an opinion here, when your foundation should be based on evidence. Cite to support this position and if you are citing evidence, then expand on how this is the case. ~VI<<} characterized by low reliability,{>>I disagree. Performance assessments and assessments with constructed-response items could be also equally bad, if not worse. It is not the type of items/assessments that lead to validity issues. It is mostly about how they are executed in practice. So, overall this is a bold claim. ~OB<<} leading to inferences which may not be valid reflections of learner achievement [@knightSummativeAssessmentHigher2002; @smithglasgowStandardizedTestingNursing2019]. {>>This claim is rather stark. I’m not sure of the empirical evidence substantiating it. I’m also not sure that such a claim is needed for your argument. ~CD<<}
 

@@ -1,5 +1,27 @@
 # A Review of the Literature on Assessment in Technology-mediated Higher Education {-}
 
+- [A Review of the Literature on Assessment in Technology-mediated Higher Education {-}](#a-review-of-the-literature-on-assessment-in-technology-mediated-higher-education--)
+  - [Topic {-}](#topic--)
+  - [Problem {-}](#problem--)
+  - [Purpose {-}](#purpose--)
+  - [Questions {-}](#questions--)
+  - [Defining Assessment {-}](#defining-assessment--)
+    - [Historical Definitions {-}](#historical-definitions--)
+      - [Section Abstract{-}](#section-abstract-)
+    - [Modern Conceptions of Assessment {-}](#modern-conceptions-of-assessment--)
+      - [Section Abstract{-}](#section-abstract--1)
+  - [Assessment Literacy {-}](#assessment-literacy--)
+      - [Section Abstract{-}](#section-abstract--2)
+  - [Approaches to Assessment {-}](#approaches-to-assessment--)
+      - [Section Abstract{-}](#section-abstract--3)
+  - [Assessment and Measurement	 {-}](#assessment-and-measurement--)
+      - [Section Abstract {-}](#section-abstract--)
+    - [Validity {-}](#validity--)
+    - [Reliability  {-}](#reliability---)
+    - [Fairness {-}](#fairness--)
+  - [Assessment in Higher Education	 {-}](#assessment-in-higher-education--)
+      - [Section Abstract {-}](#section-abstract---1)
+  - [Impact of Technology on Assessment in Higher Education	 {-}](#impact-of-technology-on-assessment-in-higher-education--)
 
 ## Topic {-}
 
@@ -7,7 +29,11 @@
 
 ## Problem {-}
 
+- We don't know how higher education instructors approach classroom assessment in technologically-mediated environments.
+
+<!-->
 - We don't know how the increased use of technology in higher education has impacted higher education instructors' approaches to assessment.  
+-->
 
 ## Purpose {-}
 
@@ -15,9 +41,9 @@
 
 ## Questions {-}
 
-1. What are the major themes or patterns in the literature related to assessment in higher education?  
+1. What are the major themes or patterns in the literature related to approaches to assessment in higher education?  
 2. What are the major themes or patterns in the literature related to the impact of technology on assessment in higher education?  
-3. What gaps exist in the literature related to assessment in technology-mediated higher education?  
+3. What gaps exist in the literature related to approaches to assessment in technology-mediated higher education?  
 
 
 ## Defining Assessment {-}
@@ -38,12 +64,13 @@
 
 #### Section Abstract{-}
 
-> The literature shows a change in focus from previous models of assessment to show that assessment is a complex undertaking influenced by instructors' past experiences with assessment, institutional and jurisdictional policies
+> The literature shows a change in focus from previous models of assessment to show that assessment is a complex undertaking influenced by instructors' past experiences with assessment, as well as institutional and jurisdictional policies
 
+- Brown [-@brownTeachersConceptionsAssessment2004] showed in a study of K-12 teachers in New Zealand that teachers' "conceptions of assessment" (p. 302), or the organizing frameworks teachers use to understand the phenomenon of assessment, are not simple constructs, but are complex and interconnected.
 - Since ~2010, there has been a shift in how researchers view assessment towards assessment being a complex, multi-faceted construct in which instructors bring with them a host of experiences and beliefs about assessment, some of which were passed down from their own instructors [@lipnevichWhatGradesMean2020; @masseyAssessmentLiteracyCollege2020], but others are based in course and institutional policies and the social dynamics within their department [@brownQueenslandTeachersConceptions2011].  
 - Earl [-@earlAssessmentLearningUsing2013] further clarified the role assessment can play in learning by highlighting a distinction between assessment *of* learning (summative assessment) and assessment *for* learning (formative assessment by way of feedback) and also distinguishing both of those from assessment *as* learning (a subset of assessment *for* learning in which learners employ metacognitive skills to regulate their own learning tasks).  
 - DeLuca et al. [-@delucaEstablishingFoundationValid2013] argue that there are categories of conceptions exhibited by K-12 preservice teachers: assessment as testing, assessment as format, assessment purpose, and assessment as process. These conceptions are seen as increasingly complex, with those who see assessment as testing believing that assessment is primarily concerned with summative assessment of learning, usually using teacher-created selected-response tests. Those who see assessment as format tend to focus on whether the assessment is a "performance, product, or objectively-scored assessment" (p. 110). Assessment as purpose is delineated according to the summative/formative binary or Earl's [-@earlAssessmentLearningUsing2013] assessment *of/for/as* learning model. DeLuca et al. also identify other purposes of assessment such as accountability, gatekeeping, and teacher evaluation. Lastly, assessment as process, which is based on the National Research Council's description of assessment being a process of reasoning from evidence [-@pellegrinoKnowingWhatStudents2001].  
-- Fletcher et al. [-@fletcherFacultyStudentsConceptions2012] used Brown's [-@brownTeachersConceptionsAssessment2017] abridged *Conceptions of Assessment* (CoA) questionnaire to measure learners' and instructors' conceptions as follows: "assessment makes institutions accountable, assessment makes students accountable, assessment describes improvements in student abilities, assessment improves student learning, assessment improves teaching, assessment is valid, assessment is irrelevant and bad, assessment is irrelevant and ignored, and assessment is irrelevant and inaccurate" (p. 122). They report that instructors were more likely than learners to view assessment as consistent and trustworthy methods to understand and improve learning and that learners were more likely to have negative views of assessment and viewed it as a measure of student and institutional accountability.  
+- Fletcher et al. [-@fletcherFacultyStudentsConceptions2012] used Brown's [-@brownTeachersConceptionsAssessment2006; -@brownTeachersConceptionsAssessment2004] abridged *Conceptions of Assessment* (CoA) questionnaire to measure learners' and instructors' conceptions as follows: "assessment makes institutions accountable, assessment makes students accountable, assessment describes improvements in student abilities, assessment improves student learning, assessment improves teaching, assessment is valid, assessment is irrelevant and bad, assessment is irrelevant and ignored, and assessment is irrelevant and inaccurate" (p. 122). They report that instructors were more likely than learners to view assessment as consistent and trustworthy methods to understand and improve learning and that learners were more likely to have negative views of assessment and viewed it as a measure of student and institutional accountability.  
 - Massey et al. [-@masseyAssessmentLiteracyCollege2020] used DeLuca et al.'s [-@delucaEstablishingFoundationValid2013] framework of conceptions in their study of HE instructors' conceptions of assessment before and after an instructional development course focussed on assessment. They also considered the idea that there are two general orientations towards assessment in HE, an "assessment culture" and a "testing culture" [@birenbaumAssessment2000Pluralistic1996; @birenbaumNewInsightsLearning2003, as cited in @masseyAssessmentLiteracyCollege2020]. They report that they saw significant shifts in participants' conceptions of assessment from more simplistic views of assessment as testing pre-treatment, to more complex and nuanced views of assessment as process post-treatment.  
 
 
@@ -53,7 +80,7 @@
 
 > Since 2010, there has been significant focus in the literature on the idea of assessment literacies, indicating a further evolution of research findings towards building models which account for increasing variety of factors influencing instructors. Assessment is seen as a set of skills, beliefs, and context-dependent practices.
 
-- The idea of assessment literacy is relatively recent in the K-12 literature and is nascent and under-theorized with respect to HE contexts [@medlandExaminingAssessmentLiteracy2015]. assessment literacy has been defined variously as "the skills and knowledge teachers require to measure and support student learning through assessment" [@delucaApproachesClassroomAssessment2016],  "a basic understanding of educational assessment and related skills to apply such knowledge to various measures of student achievement" [@xuTeacherAssessmentLiteracy2016], "an individual’s understandings of the fundamental assessment concepts and procedures deemed likely to influence educational decisions" [@pophamAssessmentLiteracyOverlooked2011] and "a dynamic context-dependent social practice that involves teachers articulating and negotiating classroom and cultural knowledges with one another and with learners, in the initiation, development and practice of assessment to achieve the learning goals of students" [@willisConceptualisingTeachersAssessment2013]. Key to these definitions are the ideas that assessment literacy is a complex, multi-faceted construct, that assessment literacy requires *adequate* (not high) levels of psychometric or statistical analyses, and that it is intended to enable learner success.  
+- The idea of assessment literacy is relatively recent in the K-12 literature and is nascent and under-theorized with respect to HE contexts [@medlandExaminingAssessmentLiteracy2015]. Assessment literacy has been defined variously as "the skills and knowledge teachers require to measure and support student learning through assessment" [@delucaApproachesClassroomAssessment2016],  "a basic understanding of educational assessment and related skills to apply such knowledge to various measures of student achievement" [@xuTeacherAssessmentLiteracy2016], "an individual’s understandings of the fundamental assessment concepts and procedures deemed likely to influence educational decisions" [@pophamAssessmentLiteracyOverlooked2011] and "a dynamic context-dependent social practice that involves teachers articulating and negotiating classroom and cultural knowledges with one another and with learners, in the initiation, development and practice of assessment to achieve the learning goals of students" [@willisConceptualisingTeachersAssessment2013]. Key to these definitions are the ideas that assessment literacy is a complex, multi-faceted construct, that assessment literacy requires *adequate* (not high) levels of psychometric or statistical analyses, and that it is intended to enable learner success.  
 - conceptualizations of assessment literacy have tended to be based on sets of standards to which K-12 teachers are obligated. The first set of standards was the *Standards for Teacher Competence in Educational Assessment of Students*  (the *Standards*), published by a committee of representatives from the American Federation of Teachers, the National Council on Measurement in Education, and the National Education Association [@StandardsTeacherCompetence1990].  
 - Shortly after the publication of the *Standards*, the term *assessment literacy* appeared in the literature with Stiggins' [-@stigginsAssessmentLiteracy1991] article called *Assessment Literacy*. Stiggins initial article was an account of his observation that teacher education programs at the time spent very little time training teachers in the methods and dispositions of educational measurement.
 -Stiggins followed this with another article [@stigginsAssessmentLiteracy21st1995] where he outlined five characteristics of sound assessments  
