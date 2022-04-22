@@ -43,9 +43,10 @@
 
 ## Questions {-}
 
-1. What are the major themes or patterns in the literature related to approaches to assessment in higher education?  
-2. What are the major themes or patterns in the literature related to the impact of technology on assessment in higher education?  
-3. What gaps exist in the literature related to approaches to assessment in technology-mediated higher education?  
+1. What factors shape higher education instructors' approaches to assessment?
+2. What are the major themes or patterns in the literature related to approaches to assessment in higher education?  
+3. What are the major themes or patterns in the literature related to the impact of technology on assessment in higher education?  
+4. What gaps exist in the literature related to approaches to assessment in technology-mediated higher education? 
 
 ## Defining Assessment {-}
 
