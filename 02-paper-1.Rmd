@@ -4,6 +4,7 @@
 - [A Review of the Literature on Assessment in Technology-mediated Higher Education {-}](#a-review-of-the-literature-on-assessment-in-technology-mediated-higher-education--)
   - [Introduction](#introduction)
   - [A Brief History of Assessment Research](#a-brief-history-of-assessment-research)
+  - [Factors](#factors)
 
 
 ## Introduction
@@ -12,8 +13,7 @@ The assessment of learning is a critical component of the work of higher educati
 
 Shepard argues for the need to integrate assessment and instruction in such a way as to engage learners in authentic performance tasks more suited to modern understandings of cognition. It appears now that, in the twenty years since Shepard wrote her paper, the goals of early 21st century curricula have continued to diverge from those of the 20th century with the World Economic Forum identifying competencies in collaboration, analytical thinking, creative problem-solving, and the continual learning as being priorities for 21st century employers [@worldeconomicforumFutureJobsReport2020]. Consequently, models of assessment which prioritize testing skills in a manner aligned with 20th century curricular models are no longer adequate because they no longer align with the priorities of modern HE [@broadfootAssessmentTwentyFirstCenturyLearning2016; @crooksImpactClassroomEvaluation1988; @pellegrinoPerspectivesIntegrationTechnology2010; @timmisRethinkingAssessmentDigital2016]. 
 
-Despite Shepard's exhortation to integrate modern curricular goals with 
-aligned assessment practices, both local and systemic change in this area has been elusive [@broadfootAssessmentTwentyFirstCenturyLearning2016; @earlAssessmentLearningUsing2013]. This is in part because the approaches that individual instructors take to assessment are driven by complex factors at the individual level as well as local and systemic levels [@blackAssessmentClassroomLearning1998; @delucaDifferentialSituatedView2019; @willisConceptualisingTeachersAssessment2013]. The variety of factors, combined with the relative freedom instructors have to design their courses and assessments leads to approaches to assessment that are variable, idiosyncratic, and often influenced by their own past experiences rather than a deep understanding of assessment theory [@lipnevichWhatGradesMean2020; @masseyAssessmentLiteracyCollege2020].
+Despite Shepard's exhortation to integrate modern curricular goals with aligned assessment practices, both local and systemic change in this area has been elusive [@broadfootAssessmentTwentyFirstCenturyLearning2016; @earlAssessmentLearningUsing2013]. This is in part because the approaches that individual instructors take to assessment are driven by complex factors at the individual level as well as local and systemic levels [@blackAssessmentClassroomLearning1998; @delucaDifferentialSituatedView2019; @willisConceptualisingTeachersAssessment2013]. The variety of factors, combined with the relative freedom instructors have to design their courses and assessments leads to approaches to assessment that are variable, idiosyncratic, and often influenced by their own past experiences rather than a deep understanding of assessment theory [@lipnevichWhatGradesMean2020; @masseyAssessmentLiteracyCollege2020].
 
 One prominent and under-researched factor that has become ubiquitous in society and higher education is the influence of digital technologies on instructors approaches to assessment [@pellegrinoPerspectivesIntegrationTechnology2010; @webbAssessmentTwentyFirstCentury2018; @broadfootAssessmentTwentyFirstCenturyLearning2016], a factor driven, in part, by the COVID-19 pandemic and the sudden shift to emergency remote teaching for the vast majority of higher education institutions. 
 
@@ -46,7 +46,9 @@ Brown [-@brownTeachersConceptionsAssessment2004] showed in a study of K12 teache
 James [-@jamesAssessmentLearning2008] highlights important connections between assessment practices and learning theory, noting that both behaviourism and cognitivism emphasize the acquisition of knowledge as a sort of commodity and thus both lead to assessment strategies that emphasize the individual reproduction of knowlege that has either been taught, or has been constructed in meaning-making exercises. Contrary to these approaches, socio-cultural learning theory emphasizes the communal production of meaning through social tools and social interactions between peers and more capable 'others'. Thus, assessment in socio-cultural contexts, while under-theorized, as James argues, ought to be holistic and situated within the communal learning process, rather than an event that happens sometime after the learning has happened. 
 
 
+## Factors
 
+Offerdahl and Tomanek [-@offerdahlChangesInstructorsAssessment2011] investigated instructors' assessment thinking in relation to being presented with new assessment strategies. They found that changes in assessment *practice* didn't necessarily follow from changes in assessment *thinking* and that there are many factors which influence both assessment thinking and practice.
 
 <!--
 
