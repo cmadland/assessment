@@ -43,7 +43,11 @@ Brown [-@brownTeachersConceptionsAssessment2004] showed in a study of K12 teache
 - student accountability, or  
 - treating assessment as irrelevant.
   
-James [-@jamesAssessmentLearning2008] highlights important connections between assessment practices and learning theory, noting that both behaviourism and cognitivism emphasize the acquisition of knowledge as a sort of commodity and thus both lead to assessment strategies that emphasize the individual reproduction of knowlege that has either been taught, or has been constructed in meaning-making exercises. Contrary to these approaches, socio-cultural learning theory emphasizes the communal production of meaning through social tools and social interactions between peers and more capable 'others'. Thus, assessment in socio-cultural contexts, while under-theorized, as James argues, ought to be holistic and situated within the communal learning process, rather than an event that happens sometime after the learning has happened. 
+James [-@jamesAssessmentLearning2008] highlights important connections between assessment practices and learning theory, noting that both behaviourism and cognitivism emphasize the acquisition of knowledge as a sort of commodity and thus both lead to assessment strategies that emphasize the individual reproduction of knowlege that has either been taught, or has been constructed in meaning-making exercises. Contrary to these approaches, socio-cultural learning theory emphasizes the communal production of meaning through social tools and social interactions between peers and more capable 'others'. Thus, assessment in socio-cultural contexts, which James argues is under-theorized, ought to be holistic and situated within the communal learning process, rather than an event that happens sometime after the learning has happened. 
+
+Similarly, Fletcher et al. [-@fletcherFacultyStudentsConceptions2012] note that teachers who view teaching as the transmission of knowledge tend to rely more heavily on assessment tasks which require learners to reproduce what they have been taught. On the other hand, teachers who take a more socio-constructivist view that knowledge is built over time tend to conceive of assessment as being an integral part of the teaching and learning process as opposed to a culminating activity.
+
+In a study that bridged K12 and higher education by examining pre-service teachers' conceptions of assessment, DeLuca et al. [-@delucaEstablishingFoundationValid2013]
 
 
 ## Factors
