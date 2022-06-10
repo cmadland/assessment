@@ -10,9 +10,11 @@
 
 ## Introduction  {-}
 
-Assessment in higher education 
+### Assessment in higher education 
+
 There are two branches of literature related to assessment in technology-mediated HE. The first is related to the application of technology to increasing the efficiency and predictive power of algorithmic assessment tools such as automated essay scoring [@kumarExplainableAutomatedEssay2020], automated item generation [@shinMultipleChoiceItemDistractor2019], adaptive testing [@bornEvaluatingDifferentEquating2019], predictive statistical analyses [@gorgunPolytomousScoringApproach2021] and gamified immersive environments [@clarke-miduraAssessmentTechnologyChange2010]. The other branch is more focussed on the power of technology to mediate formative assessment practices through learner- and community-centred environments [@conradAssessmentStrategiesOnline2018; @gikandiTheoryFormativeAssessment2015; @gikandiOnlineFormativeAssessment2011]. These branches do have some common characteristics in that researchers in both advocate for greater varieties of assessments compared to pencil-and-paper tests, greater efficiency and accuracy in grading, increased ability to capture and assess learner processes, and greater flexibility in the timing of assessments as technology allows for asynchronous interactions [@conradAssessmentStrategiesOnline2018].
 
+Broadfoot [-@broadfootAssessmentTwentyFirstCenturyLearning2016] argues that the increasing influence of technology in higher education and the emergence of 21st century learning outcomes (creativity, resourcefulness, resilience, adaptability) have outpaced the development of tools capable of assessing learning in these areas.
 
 ## Literature    {-}
 
@@ -42,7 +44,9 @@ In this case, the technology-mediated assessment instrument has been designed to
 
 
 ### Theoretical / Conceptual Framework    {-}
-
+- shared metacognition 
+  - [@vaughanCommunityInquiryFramework2020]
+  - [@garrisonThinkingCollaborativelyEducational2015]
 ### Research Method   {-}
 
 ### Analysis   {-}

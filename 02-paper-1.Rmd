@@ -72,7 +72,11 @@ Assessment approaches including assessment purposes, assessment processes, fairn
 
 ### Impact of Technology on Approaches to Assessment in higher Education
 
-Garrison et al. [-@garrisonThinkingCollaborativelyEducational2015] introduce the idea of *shared metacognition* as being a necessary competency for learner in 21st century higher education. They build a case that modern learners must contend with *supercomplexity* [@barnettWillLearnBeing2007], which refers to open-endedness and ambiguity characteristic of modern society and culture. Supercomplexity is both compounded and mitigated through the integration of digital technologies in higher education. While there is additional cognitive load associated with learning through technology, it is also true that technology can help learners organize information through a *cognitive offloading*.
+While digital technologies have become ubiquitous in higher education [@broadfootAssessmentTwentyFirstCenturyLearning2016]
+
+
+
+Garrison et al. [-@garrisonThinkingCollaborativelyEducational2015] introduce the idea of *shared metacognition* as being a necessary competency for learner in 21st century higher education. They build a case that modern learners must contend with *supercomplexity* [@barnettWillLearnBeing2007], which refers to the open-endedness and ambiguity characteristic of modern society and culture. Supercomplexity is both compounded and mitigated through the integration of digital technologies in higher education. While there is additional cognitive load associated with learning through technology, it is also true that technology can help learners organize information through a *cognitive offloading*.
   - shared metacognition
   - community of inquiry
   - supercomplexity [@barnettWillLearnBeing2007]
