@@ -57,6 +57,9 @@ Willis et al. [-@willisConceptualisingTeachersAssessment2013] highlight the impo
 
 Popham [-@pophamAssessmentLiteracyTeachers2009] also describes two often competing types of assessments, *classroom* assessments and *accountability* assessments. Classroom assessments, aligned with horizontal discourses, are typically teacher-created, although some teachers use publisher-created materials such as test banks, and are used to assign grades to learners or to inform future instruction. Accountability assessments, aligned with vertical discourses, are those which are usually government-imposed, standardized tests, most often deployed in K12 settings, although there are notable higher education contexts where such accountability tests are prominent, namely programs which prepare learners for external regulatory exams (e.g. nursing, accounting). Popham argues that the relative emphasis on either of these types of assessment will impact the decisions teachers make in their instructional and assessment approaches. 
 
+Looney et al. [-@looneyReconceptualisingRoleTeachers2017] argue that teacher assessment literacy is too instrumental a focus and that *conceptions of assessment* tend to neglect affective feelings related to teacher self-efficacy. They argue that teacher assessment identity encompasses these factors and that there are significant ontological dimensions to assessment. Teachers assess the way they do because of *who* they are in addition to what they know and are able to do.
+
+
 Offerdahl and Tomanek [-@offerdahlChangesInstructorsAssessment2011] investigated instructors' assessment thinking in relation to being presented with new assessment strategies. They found that changes in assessment *practice* didn't necessarily follow from changes in assessment *thinking* and that there are many factors which influence both assessment thinking and practice.
 
 ### Assessment Cultures {-}
