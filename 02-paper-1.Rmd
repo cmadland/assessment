@@ -70,6 +70,10 @@ Looney et al. [-@looneyReconceptualisingRoleTeachers2017] argue that teacher ass
 
 ### Assessment Cultures {-}
 
+[@masseyAssessmentLiteracyCollege2020] 
+
+```Massey et al. investigated the impact of a semester-long instructional development course on the conceptions of assessment and assessment confidence of new faculty. They found that the experience encouraged faculty to deepen their understandings of assessment, and as they did so, their conceptions of assessment became more nuanced and complex. At the same time, following the increased depth in conceptions, researchers noted that participants' confidence in assessment also increased.```
+
 [@delucaExploringAssessmentCultures2021]
 [@birenbaumAssessmentCultureTesting2016]
 
