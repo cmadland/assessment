@@ -3,6 +3,8 @@
 - [A Review of the Literature on Assessment in Technology-mediated Higher Education {-}](#a-review-of-the-literature-on-assessment-in-technology-mediated-higher-education--)
   - [Introduction {-}](#introduction--)
   - [A Brief History of Classroom Assessment Research {-}](#a-brief-history-of-classroom-assessment-research--)
+    - [Professional Standards / Assessment Literacy](#professional-standards--assessment-literacy)
+    - [Approaches to Assessment](#approaches-to-assessment)
   - [Factors {-}](#factors--)
     - [Assessment Cultures {-}](#assessment-cultures--)
     - [Impact Of Technology On Approaches To Assessment In Higher Education](#impact-of-technology-on-approaches-to-assessment-in-higher-education)
@@ -50,6 +52,22 @@ More recently, researchers have increasingly recognized the complexity of assess
 James [-@jamesAssessmentLearning2008] highlights important connections between assessment practices and learning theory, noting that both behaviourism and cognitivism emphasize the acquisition of knowledge as a sort of commodity and thus both lead to assessment strategies that emphasize the individual reproduction of knowlege that has either been taught, or has been constructed in meaning-making exercises. Contrary to these approaches, socio-cultural learning theory emphasizes the communal production of meaning through social tools and social interactions between peers and more capable 'others'. Thus, assessment in socio-cultural contexts, which James argues is under-theorized, ought to be holistic and situated within the communal learning process, rather than an event that happens sometime after the learning has happened. Similarly, Fletcher et al. [-@fletcherFacultyStudentsConceptions2012] note that teachers who view teaching as the transmission of knowledge tend to rely more heavily on assessment tasks which require learners to reproduce what they have been taught. On the other hand, teachers who take a more socio-constructivist view that knowledge is built over time tend to conceive of assessment as being an integral part of the teaching and learning process as opposed to a culminating activity.
 
 Since Brown's research in 2004, other researchers have also recognized that there are different purposes for assessment. Earl [-@earlAssessmentLearningUsing2013] comments that these purposes might sometimes conflict with each other, such as when assessment might be used for both formative feedback and also as evidence supporting a summative grade. Earl contends that the purposes of assessment can be categorized as assessment *of* learning (summative judgements of learner knowledge), assessment *for* learning (formative feedback loops guiding and directing future learning), and assessment *as* learning (learners using metacognitive skills to self-regulate in learning contexts). While Earl's taxonomy is primarily focused on how instructors and learners use assessment data, others note that conceptions of assessment extend well beyond this. DeLuca et al.[-@delucaEstablishingFoundationValid2013], for example, proposed that there are four predominant conceptions of assessment among teachers, namely, "(a) assessment as testing, (b) assessment as format, (c) assessment as purpose and (d) assessment as process" (p. 110). They argue that their taxonomy represents an ordered progression of complexity beginning with a primary focus on summative testing and progressing through to a conception of assessment that recognizes the complexity of integrated teaching and learning processes. 
+
+### Professional Standards / Assessment Literacy
+
+| Title/Article | Citation | Domains | Standards |
+|---|---|---|---|
+| Standards for Teacher Competence in Educational Assessment of Students | [@aftStandardsTeacherCompetence1990] | NA | 7 |
+| Principles for Fair Student Assessment Practices for Education in Canada |[@jointadvisorycommitteePrinciplesFairStudent1993] | - Developing and choosing methods for assessment <br> - Collecting assessment information <br> - Judging and scoring student performance <br> - Summarizing and interpreting results <br> - Reporting assessment findings | 36 |
+| Assessment Literacy For the 21st Century | [@stigginsAssessmentLiteracy21st1995] | NA | 5|
+| Educational Assessment Knowledge and Skills for Teachers | [@brookhartEducationalAssessmentKnowledge2011] | NA | 11 | 
+| Classroom Assessment Standards for PreK-12 Teachers | [@klingerClassroomAssessmentStandards2015] | - Foundation <br> - Use <br> - Quality | 17 |
+| Approaches to Classroom Assessment | [@delucaApproachesClassroomAssessment2016] | - Assessment purposes <br> - Assessment process <br> - Assessment fairness <br> - Assessment theory | 12 |
+
+
+
+[@brookhartEducationalAssessmentKnowledge2011]
+### Approaches to Assessment
 
 DeLuca et al. [-@delucaTeachersApproachesClassroom2016]  utilized this framework
 
