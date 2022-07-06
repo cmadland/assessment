@@ -40,7 +40,14 @@ Among the more influential publications related to modern views of assessment (t
 
 Towards the end of the 20th century, the idea of *assessment literacy* was introduced by Richard Stiggins[-@stigginsAssessmentLiteracy1991]. Stiggins argued that, in K12 educational contexts, society had come to expect high educational attainment, but teacher education programs did little or nothing to prepare graduates to be able to certify that their learners were actually meeting targets. Stiggins blamed this in part on the fact that in the United States, there was no specific requirement for teachers to be trained in assessment, and consequently, teachers, administrators, and those who train them were essentially assessment illiterate. Stiggins described assessment literate educators as those who "have a basic understanding of the meaning of high- and low quality assessment and are able to apply that knowledge to various measures of student achievement" (p. 535).
 
-The National Research Council's (NRC) 2001 foundational report *Knowing What Students Know: The Science and Design of Educational Assessment*, advanced understanding of assessment with their definition of assessment as "a process of drawing reasonable inferences about what students know on the basis of evidence derived from observations of what they say, do, or make in selected situations" [@pellegrinoKnowingWhatStudents2001, p. 112] or, more simply, "reasoning from evidence" [@pellegrinoKnowingWhatStudents2001, p. 43], based on Mislevy's [-@mislevyTestTheoryReconcieved1994, p. 4] assertion that "test theory is machinery for reasoning from students' behavior to conjectures about their competence, as framed in a particular conception of competence.". Such a parsimonious description, however, may hide some of the complexities of fairly and equitably coming to know what learners know and can do in relation to particular outcomes. Since knowledge of a particular domain cannot be directly observed in a learner, and therefore cannot be quantified, instructors must rely on data gathered during the teaching process to support a particular inference about what a learner *probably* knows. The data gathered from performance tasks such as exams, essays, portfolios, labs, etc, become *evidence* when they support an inference about what a learner knows and can do. 
+### Professional Standards / Assessment Literacy
+
+{>>unsure where to put this section. seems to be two lines of research that split in late 90's - early 2000s: assessment literacy (skills and knowledge), and conceptions of assessment multi-dimensional, layerd and conceptual practice...<<}
+
+
+The recognition of assessment literacy as a critical competency for educators was influenced by the growing demands for teacher and school accountability in the post-WWII era in the USA and Canada, particularly the *Elementary and Secondary Education Act* (ESEA), passed in 1965, and the *No Child Left Behind* (NCLB) act, passed in 2002 [see @delucaPreparingTeachersAge2012 for a detailed discussion]. As such, conceptualizations of assessment literacy tended to be based on sets of standards to which K-12 teachers were obligated. 
+
+The National Research Council's (NRC) 2001 foundational report *Knowing What Students Know: The Science and Design of Educational Assessment*, advanced understanding of assessment with their definition of assessment as "a process of drawing reasonable inferences about what students know on the basis of evidence derived from observations of what they say, do, or make in selected situations" [@pellegrinoKnowingWhatStudents2001, p. 112] or, more simply, "reasoning from evidence" [-@pellegrinoKnowingWhatStudents2001, p. 43], based on Mislevy's [-@mislevyTestTheoryReconcieved1994, p. 4] assertion that "test theory is machinery for reasoning from students' behavior to conjectures about their competence, as framed in a particular conception of competence.". Such a parsimonious description, however, may hide some of the complexities of fairly and equitably coming to know what learners know and can do in relation to particular outcomes. Since knowledge of a particular domain cannot be directly observed in a learner, and therefore cannot be quantified, instructors must rely on data gathered during the teaching process to support a particular inference about what a learner *probably* knows. The data gathered from performance tasks such as exams, essays, portfolios, labs, etc, become *evidence* when they support an inference about what a learner knows and can do. 
 
 More recently, researchers have increasingly recognized the complexity of assessment practices and the factors which drive them. Brown [-@brownTeachersConceptionsAssessment2004] showed in a study of K12 teachers in New Zealand that teachers' "conceptions of assessment" (p. 302), or the organizing frameworks teachers use to understand the phenomenon of assessment, are not simple constructs, but are complex and interconnected. Brown's model shows four common conceptions of assessment among K12 teachers:
 
@@ -53,16 +60,17 @@ James [-@jamesAssessmentLearning2008] highlights important connections between a
 
 Since Brown's research in 2004, other researchers have also recognized that there are different purposes for assessment. Earl [-@earlAssessmentLearningUsing2013] comments that these purposes might sometimes conflict with each other, such as when assessment might be used for both formative feedback and also as evidence supporting a summative grade. Earl contends that the purposes of assessment can be categorized as assessment *of* learning (summative judgements of learner knowledge), assessment *for* learning (formative feedback loops guiding and directing future learning), and assessment *as* learning (learners using metacognitive skills to self-regulate in learning contexts). While Earl's taxonomy is primarily focused on how instructors and learners use assessment data, others note that conceptions of assessment extend well beyond this. DeLuca et al.[-@delucaEstablishingFoundationValid2013], for example, proposed that there are four predominant conceptions of assessment among teachers, namely, "(a) assessment as testing, (b) assessment as format, (c) assessment as purpose and (d) assessment as process" (p. 110). They argue that their taxonomy represents an ordered progression of complexity beginning with a primary focus on summative testing and progressing through to a conception of assessment that recognizes the complexity of integrated teaching and learning processes. 
 
-### Professional Standards / Assessment Literacy
 
-| Title/Article | Citation | Domains | Standards |
-|---|---|---|---|
-| Standards for Teacher Competence in Educational Assessment of Students | [@aftStandardsTeacherCompetence1990] | NA | 7 |
-| Principles for Fair Student Assessment Practices for Education in Canada |[@jointadvisorycommitteePrinciplesFairStudent1993] | - Developing and choosing methods for assessment <br> - Collecting assessment information <br> - Judging and scoring student performance <br> - Summarizing and interpreting results <br> - Reporting assessment findings | 36 |
-| Assessment Literacy For the 21st Century | [@stigginsAssessmentLiteracy21st1995] | NA | 5|
-| Educational Assessment Knowledge and Skills for Teachers | [@brookhartEducationalAssessmentKnowledge2011] | NA | 11 | 
-| Classroom Assessment Standards for PreK-12 Teachers | [@klingerClassroomAssessmentStandards2015] | - Foundation <br> - Use <br> - Quality | 17 |
-| Approaches to Classroom Assessment | [@delucaApproachesClassroomAssessment2016] | - Assessment purposes <br> - Assessment process <br> - Assessment fairness <br> - Assessment theory | 12 |
+| Title/Article  Citation | Description |
+|------|------|
+| Standards for Teacher Competence in Educational Assessment of Students  [@aftStandardsTeacherCompetence1990] |  |
+| Principles for Fair Student Assessment Practices for Education in Canada [@jointadvisorycommitteePrinciplesFairStudent1993] | |
+| Assessment Literacy For the 21st Century  [@stigginsAssessmentLiteracy21st1995] ||
+| Educational Assessment Knowledge and Skills for Teachers  [@brookhartEducationalAssessmentKnowledge2011] | | 
+| Classroom Assessment Standards for PreK-12 Teachers  [@klingerClassroomAssessmentStandards2015] | |
+
+
+| Approaches to Classroom Assessment  [@delucaApproachesClassroomAssessment2016] | - Assessment purposes <br> - Assessment process <br> - Assessment fairness <br> - Assessment theory | 12 |
 
 
 
