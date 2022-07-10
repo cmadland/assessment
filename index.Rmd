@@ -1,7 +1,7 @@
 ---
 title: "Approaches to Assessment in Higher Education"
 author: "Colin Madland"
-date: "`r Sys.Date()`"
+date: "Last updated `r format(Sys.time(), '%A, %b %d, %H:%M %p, %Z')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook  
 documentclass: book
