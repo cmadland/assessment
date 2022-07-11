@@ -1,4 +1,5 @@
-# Appendix A
+# Appendix A {-}
+
 Select Standards for Educational Assessment
 
 ## Standards for Teacher Competence in Educational Assessment of Students
