@@ -81,6 +81,57 @@ This brief overview of various sets of standards, while incomplete, provides a p
 
 In the context of this progression towards more formative assessment practices, other researchers began exploring the complexities of assessment by considering the many factors that comprise individual teachers' approaches to assessment. DeLuca et al. [-@delucaTeachersApproachesClassroom2016] used their earlier framework of conceptions of assessment [-@delucaEstablishingFoundationValid2013] and proposed the idea of *approaches to assessment*, representing an intentional move away from basing assessment practice on skills and competencies reified in sets of standards [@delucaApproachesClassroomAssessment2016]. DeLuca et al. [-@delucaTeachersApproachesClassroom2016], citing [@newtonClarifyingPurposesEducational2007] argue that the varying conceptions of assessment as well as the large number of factors that shape teachers' approaches to assessment, all of which can be contradictory, created confusion and possibly hindered the progressive development of teachers' competency in assessment. The idea of *approaches to assessment* is grounded in the complexity of assessment as well as researchers' recognition that skill-based sets of standards fail to account for all of the factors shaping assessment practice in modern schools. 
 
+DeLuca et al.'s model [-@delucaApproachesClassroomAssessment2016], *approaches to classroom assessment* could be seen to align with the *assessment* component of Biggs' 3P model of teaching and learning [-@biggsWhatStudentDoes1999; -@biggsTheoryPracticeCognitive1993] and so aligns well with a concise model of teaching and learning in higher education. The *Approaches to Classroom Assessment* model is based on the JCSEE standards [@klingerClassroomAssessmentStandards2015] and describes four themes of AL, each with three dimensions. The model represents somewhat of a break from previous models in that it references *approaches to assessment* rather than *assessment literacies*. This is a reflection of the authors' view that language around *literacies* and *competencies* may indicate a reliance on "correct" views or methods rather than the complex array of influences that lead to multiple legitimate approaches as identified in the literature [@delucaDifferentialSituatedView2019; @willisConceptualisingTeachersAssessment2013].
+
+The themes DeLuca et al [-@delucaExploringAssessmentCultures2021, p. 10] describe along with their associated dimensions are listed below and illustrated in figure 2:
+
+1. Assessment purposes.  
+     - Assessment *of* learning  
+       - Teachers' use of evidence to summate student learning and assign a grade in relation to students' achievement of learning objectives  
+     - Assessment *for* learning  
+       - Teachers' and students' use of evidence to provide feedback on progress towards learning objectives (i.e., inform next steps for learning and instructions).  
+       - Involves both teacher-directed and student-centred approaches to formative assessment.  
+     - Assessment *as* learning  
+       - Focuses on how the student is learning by providing feedback or experiences that foster students' metacognitive abilities and learning skills (e.g., self-assessment, goal-setting, learning plans).  
+       - Involves teachers but is primarily student-centred.  
+2. Assessment process  
+     - Design  
+       - Focuses on the development of reliable assessments and items that measure student learning in relation to learning objectives.  
+     - Use/scoring  
+       - Focuses of the adjustment and use of scoring protocols and grading schemes to respond to assessment scenarios.  
+     - Communication  
+       - focuses on the interpretation of assessment results and feedback through communication to students and parents.  
+3. Assessment fairness  
+     - Standard  
+       - Maintains the equal assessment protocols for all students.  
+     - Equitable  
+       - Differentiates assessment protocols for formally identified students (i.e., special education or English language learners)  
+     - Differentiated  
+       - Individualizes learning opportunities and assessments that address each student's unique learning needs and goals.  
+4. Assessment theory  
+     - Consistent  
+       - Works to ensure consistency in results within assessments, across time periods, and between teachers.  
+     - Contextual  
+       - Works to ensure assessment or evaluation measures what it claims to measure (i.e., learning objectives) and promote valid interpretations of results.  
+     - Balanced  
+       - Works to ensure consistency in measuring what an assessment or evaluation intends to measure, and degree to which an assessment or evaluation measures what it claims to measure.  
+
+![Figure 1. Approaches to Assessment [@delucaExploringAssessmentCultures2021]](images/approaches-2-assessment.png)
+
+DeLuca et al. [-@delucaApproachesClassroomAssessment2016, p 252] initially proposed three general approaches to classroom assessment aligning with the four themes listed above.
+
+Table 2. Assessment Literacy Themes with Associated Approaches to Assessment
+
+|   | Approaches to Assessment|   |   |
+|---|---|---|---|
+|Assessement Literacy Theme | Approach A | Approach B | Approach C |
+| Assessment Purposes | Assessment of Learning | Assessment for Learning | Assessment as Learning|
+| Assessment Processes | Design | Use/Scoring | Communication |
+| Assessment Fairness | Standard treatment | Equitable treatment | Differentiated approach|
+| Measurement Theory | Reliability  | Validity | Reliability/Validity |
+
+
+
 
 
 ## Factors {-}
