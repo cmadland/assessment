@@ -134,7 +134,8 @@ Table 2. Assessment Literacy Themes with Associated Approaches to Assessment
 | Assessment Fairness | Standard treatment | Equitable treatment | Differentiated approach|
 | Measurement Theory | Reliability  | Validity | Reliability/Validity |
 
-To this point in the present review, much of the emphasis has covered assessment research in K12 contexts 
+To this point in the present review, much of the emphasis has covered assessment research in K12 contexts, as DeLuca et al.'s [-@delucaTeachersApproachesClassroom2016] model was developed in the context of assessment in K12 schools and teachers. As it is a new model, and not developed with teaching in higher education as a primary focus, it has not been scrutinised to the same degree in higher education. That said, there is overlap between assessment research in higher education and K12 as many ideas that originate in the K12 literature end up influencing researchers in higher education. Presumably this is an outcome of a greater degree of professionalisation and regulation of teaching at the K12 level compared to higher education.
+
 <!--
 DeLuca et al.'s model [-@delucaApproachesClassroomAssessment2016], *approaches to classroom assessment* could be seen to align with the *assessment* component of Biggs' 3P model of teaching and learning [-@biggsWhatStudentDoes1999; -@biggsTheoryPracticeCognitive1993] and so aligns well with a concise model of teaching and learning in higher education.
 -->
